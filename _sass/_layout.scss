@@ -232,7 +232,8 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
-	color: $white;
+	// color: $white;
+	color: $red;
 	@include media($large) {
 		background-size: cover;
 	}

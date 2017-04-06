@@ -6,13 +6,20 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
-$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+// custom google fonts
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:600|EB+Garamond);
+
+$base-font                    : 'EB Garamond',serif;
+$heading-font                 : 'Raleway', sans-serif;
+
+// $base-font                   	: Georgia,Times,"Times New Roman",serif;
+// $heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
 
-$doc-font-size               	: 16;
+$doc-font-size               	: 14;
 $doc-line-height             	: 24;
 
 $border-radius               	: 3px;
@@ -23,6 +30,7 @@ $border-radius               	: 3px;
 
 $white                        : #fff;
 $black                        : #000;
+$red                          : #BF0000;
 
 $body-color                  	: #ebebeb;
 
