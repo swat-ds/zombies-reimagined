@@ -71,12 +71,12 @@ prose:
         field:
           element: "hidden"
           value: "group5"
-      - name: 'group_members'
+      - name: "group_members"
         field:
           element: "text"
           label: "Group members"
           value: ""
-      - name: 'modified'
+      - name: "modified"
         field:
           element: "hidden"
           value: CURRENT_DATETIME
