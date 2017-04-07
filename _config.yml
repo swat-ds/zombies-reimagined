@@ -80,12 +80,6 @@ prose:
         field:
             element: "hidden"
             value: CURRENT_DATETIME
-      - name: "image.teaser"
-        field:
-          element: "text"
-      - name: "image/teaser"
-        field:
-          element: "text"
 
 include:
   - .htaccess
