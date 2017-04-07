@@ -61,6 +61,7 @@ prose:
         field:
             element: "text"
             label: "Title"
+            palceholder: "test"
       - name: "chunk"
         field:
             element: "text"
