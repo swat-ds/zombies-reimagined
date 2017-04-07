@@ -63,7 +63,6 @@ prose:
             label: "Title"
             placeholder: "Title of the post"
             help: "The title does not need to be included in the text below"
-            value: "article"
       - name: 'layout'
         field:
             element: "hidden"
