@@ -3,15 +3,10 @@ title: Engendering Zombie Fiction
 layout: article
 author: group1
 modified: 2016-04-30
-image:
-    feature:
-    teaser: helen-magill-white-1.jpg
-    thumb:
-storymap:
-    id:
-    title:
-timeline:
-    id: 1HECA6UUzNzhrKmph94CODc7OIeoNzVKAM-8aeafHAq0
+image_teaser: helen-magill-white-1.jpg
+storymap_id:
+storymap_title:
+timeline_id: 1HECA6UUzNzhrKmph94CODc7OIeoNzVKAM-8aeafHAq0
 ---
 
 >“Humanity is mind-controlled and only slightly more conscious than your average zombie.” [^1]

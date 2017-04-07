@@ -3,13 +3,9 @@ title: Zombies, The Other, & the Spread of Modern Day Fear
 layout: article
 author: group3
 modified: 2016-04-28
-image:
-    feature:
-    teaser: trump.jpg
-    thumb:
-storymap:
-    id: 772f6677de9353fe75919801ec1cb48b
-    title: zombies-and-the-spread-of-fear
+image_teaser: trump.jpg
+storymap_id: 772f6677de9353fe75919801ec1cb48b
+storymap_title: zombies-and-the-spread-of-fear
 ---
 
 #### Introduction

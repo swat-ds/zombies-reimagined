@@ -6,6 +6,7 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 url: http://ds.swarthmore.edu/zombies-reimagined
+# url: 
 feed:
   path: atom.xml
 
@@ -80,10 +81,32 @@ prose:
         field:
           element: "hidden"
           value: CURRENT_DATETIME
-      - name: "image.teaser"
+      - name: "image_teaser"
         field:
           element: "text"
           label: "Image filename"
+          help: "Enter the filename of the image to appear on the homepage article gallery"
+          value: ""
+      - name: "storymap_id"
+        field:
+          element: "text"
+          label: "Storymap ID"
+          placeholder: "example: 772f6677de9353fe75919801ec1cb48b"
+          help: "If including a Storymap, enter the string of characters included in your Storymap project URL"
+          value: ""
+      - name: "storymap_title"
+        field:
+          element: "text"
+          label: "Storymap title"
+          placeholder: "example: zombies-and-the-spread-of-fear"
+          help: "If including a Storymap, enter the title associated with your Storymap project"
+          value: ""
+      - name: "timeline_id"
+        field:
+          element: "text"
+          label: "Timeline ID"
+          placeholder: "example: 1uGjhA8mK551YwHW1wRF5sh1utOxDV73JfuJbILe2jOI"
+          help: "If including a Timeline, enter the string of characters included in your Timelinejs project URL"
           value: ""
       - name: "published"
         field:

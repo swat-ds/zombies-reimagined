@@ -3,13 +3,9 @@ title: How Zombies Inform our Understanding of Racism
 layout: article
 author: group2
 modified: 2016-04-29
-image:
-    feature:
-    teaser: Zombie_haiti.png
-    thumb:
-storymap:
-    id: f6f8cf8ab31e9c13b2c05935dda85c7d
-    title: ling-9-shuang-and-tiauna
+image_teaser: Zombie_haiti.png
+storymap_id: f6f8cf8ab31e9c13b2c05935dda85c7d
+storymap_title: ling-9-shuang-and-tiauna
 ---
 
 #### Introduction
