@@ -87,7 +87,7 @@ prose:
           value: ""
       - name: "published"
         field:
-          element: checkbox
+          element: "checkbox"
           label: "Publish?"
           help: "Check the box when ready to publish"
           value: false
