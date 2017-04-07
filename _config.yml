@@ -80,7 +80,7 @@ prose:
         field:
           element: "hidden"
           value: CURRENT_DATETIME
-      - name: "image"
+      - name: "image.teaser"
         field:
           element: "text"
           label: "Image filename"
