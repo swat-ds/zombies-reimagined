@@ -63,12 +63,6 @@ prose:
             label: "Title"
             placeholder: "Enter your title"
             value: ""
-      - name: "chunk"
-        field:
-            element: "text"
-            label: "Test Title"
-            help: "here is some help"
-            placeholder: "test"
       - name: "layout"
         field:
             element: "hidden"
@@ -81,6 +75,7 @@ prose:
         field:
             element: "text"
             label: "Group members"
+            value: ""
       - name: 'modified'
         field:
             element: "hidden"
