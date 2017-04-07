@@ -86,10 +86,6 @@ prose:
       - name: "image/teaser"
         field:
           element: "text"
-      - name: "image"
-        - name: "teaser"
-          field:
-            element: "text"
 
 include:
   - .htaccess
