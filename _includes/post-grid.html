@@ -3,7 +3,7 @@
 <!-- fallback background image -->
 
     {% if post.image.teaser %}
-        {% assign background = post.image.teaser %}
+        {% assign background = post.image_teaser %}
     {% else %}
         {% assign background = site.teaser %}
     {% endif %}
