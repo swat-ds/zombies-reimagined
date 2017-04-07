@@ -59,27 +59,27 @@ prose:
     _posts/articles:
       - name: "title"
         field:
-            element: "text"
-            label: "Title"
-            placeholder: "Enter your title"
-            value: ""
+          element: "text"
+          label: "Title"
+          placeholder: "Enter your title"
+          value: ""
       - name: "layout"
         field:
-            element: "hidden"
-            value: "article"
+          element: "hidden"
+          value: "article"
       - name: "author"
         field:
-            element: "hidden"
-            value: "group5"
+          element: "hidden"
+          value: "group5"
       - name: 'group_members'
         field:
-            element: "text"
-            label: "Group members"
-            value: ""
+          element: "text"
+          label: "Group members"
+          value: ""
       - name: 'modified'
         field:
-            element: "hidden"
-            value: CURRENT_DATETIME
+          element: "hidden"
+          value: CURRENT_DATETIME
       - name: "image"
         field:
           element: "text"
