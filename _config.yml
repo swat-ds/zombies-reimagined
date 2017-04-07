@@ -65,7 +65,8 @@ prose:
       - name: "chunk"
         field:
             element: "text"
-            label: "Title"
+            label: "Test Title"
+            help: "here is some help"
             placeholder: "test"
       - name: "layout"
         field:
