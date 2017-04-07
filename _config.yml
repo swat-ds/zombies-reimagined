@@ -60,8 +60,8 @@ prose:
       - name: "title"
         field:
             element: "text"
-            label: "Title"
-            palceholder: "test"
+            label: "title"
+            placeholder: "Enter your title"
       - name: "chunk"
         field:
             element: "text"
