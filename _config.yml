@@ -85,6 +85,12 @@ prose:
           element: "text"
           label: "Image filename"
           value: ""
+      - name: "published"
+        field:
+          element: checkbox
+          label: "Publish?"
+          help: "Check the box when ready to publish"
+          value: false
 
 include:
   - .htaccess
