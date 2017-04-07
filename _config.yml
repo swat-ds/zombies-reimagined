@@ -36,6 +36,60 @@ owner:
   avatar: logo-mccabe-web.png # 160x160 px image for author byline
   disqus-shortname:
 
+# prose.io front matter settings
+
+# title: "Challenging Normal: A Linguistic Exploration of Horror & Sci-Fi"
+# layout: article
+# author: group4
+# modified: 2016-04-27
+# image:
+#     feature:
+#     teaser: White-Zombie-poster-3.jpg
+#     thumb:
+# storymap:
+#     id:
+#     title:
+# timeline:
+#     id: 1uGjhA8mK551YwHW1wRF5sh1utOxDV73JfuJbILe2jOI
+
+prose:
+  rooturl: '_posts/articles'
+  media: 'images'
+  metadata:
+    _posts/article:
+      - name: 'title'
+        field:
+            element: "text"
+            label: "Title"
+            placeholder: "Title of the post"
+            help: "The title does not need to be included in the text below"
+            value: "article"
+      - name: 'layout'
+        field:
+            element: "hidden"
+            value: "article"
+      - name: 'author'
+        field:
+            element: "hidden"
+            value: "group5"
+      - name: 'group_members'
+        field:
+            element: "text"
+            label: "Group members"
+      - name: 'modified'
+        field:
+            element: "hidden"
+            value: CURRENT_DATETIME
+      - name: "image.teaser"
+        field:
+          element: "text"
+      - name: "image/teaser"
+        field:
+          element: "text"
+      - name: "image"
+        - name: "teaser"
+          field:
+            element: "text"
 
 include:
   - .htaccess
