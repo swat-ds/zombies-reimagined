@@ -56,7 +56,7 @@ prose:
   rooturl: '_posts/articles'
   media: 'images'
   metadata:
-    _posts/article:
+    _posts/articles:
       - name: 'title'
         field:
             element: "text"
