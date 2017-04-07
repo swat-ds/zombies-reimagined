@@ -57,12 +57,12 @@ prose:
   media: 'images'
   metadata:
     _posts/articles:
-      - name: 'title'
-        field:
-            element: "text"
-            label: "Title"
-            placeholder: "Title of the post"
-            help: "The title does not need to be included in the text below"
+      # - name: 'title'
+      #   field:
+      #       element: "text"
+      #       label: "Title"
+      #       placeholder: "Title of the post"
+      #       help: "The title does not need to be included in the text below"
       - name: 'layout'
         field:
             element: "hidden"
