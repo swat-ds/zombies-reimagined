@@ -3,7 +3,7 @@ modified: '2017-05-03 16:03 -0400'
 author: group5
 layout: article
 published: false
-title: 2017-05-03-the-rise-of-zombies-the-fall-of-american-politics
+title: the-rise-of-zombies-the-fall-of-american-politics
 timeline_id: 1ZAhF4MHMsacRPDT3J5aj4LM7rU_i2hYmCxe8133lQwE
 ---
 > **"Zombie cinema represents ‘a stylized reaction to cultural consciousness and particularly to social and political injustices.’”** [^11] 
@@ -61,4 +61,3 @@ Up until recently, zombies represented the things that people feared at the time
 [^14]: "Richard Nixon." Wikipedia. Wikimedia Foundation, 30 Apr. 2017. Web. 01 May 2017.
 [^15]: Telhami, Shibley. "American Public Attitudes Toward the Israeli-Palestinian Conflict | Brookings Institution." Brookings. Brookings, 28 July 2016. Web. 01 May 2017.
 [^16]: "The Walking Dead (TV Series)." Wikipedia. Wikimedia Foundation, 01 May 2017. Web. 01 May 2017.
-
