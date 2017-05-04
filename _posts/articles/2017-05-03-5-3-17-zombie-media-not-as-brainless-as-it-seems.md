@@ -43,7 +43,7 @@ _World War Z_ (2006), a novel by Max Brooks presents a futuristic total war situ
 
 Within the novel, when the zombie crisis begins, surviving humans band together, and and their loyalties narrowly pertain to their own groups. Iran drops a nuclear bomb on Pakistan in order to stop the flow of infected immigrants while many other countries close their borders. An ordinary American family migrating north first commits murder to protect their belongings and then later engage in cannibalism to survive starvation: 
 
-> There was this smell coming from the neighbors RV. They were cooking something, meat, it smelled really good. Mom and Dad were outside arguing. Mom said ‘it’ was the only way. I didn’t know what “it” was. She said “it” wasn’t “that bad” because the neighbors, not us, had been the ones to actually ‘do it.’
+"There was this smell coming from the neighbors RV. They were cooking something, meat, it smelled really good. Mom and Dad were outside arguing. Mom said ‘it’ was the only way. I didn’t know what “it” was. She said “it” wasn’t “that bad” because the neighbors, not us, had been the ones to actually ‘do it.’"
 
 These acts of desperation show that, when faced with a threat as enormous as a zombie apocalypse, humans become willing to commit previously unthinkable crimes in order to protect their own people. Whether they are grouped by nation, class, or family, people will always protect first those who they identify as their own people, even at the expense of others.
 
@@ -55,8 +55,8 @@ Zombie media is particularly well-suited to explore these ideas because it cente
 
 The 2008 Canadian horror film, _Pontypool_, chronicles the outbreak of a deadly zombie virus that is spread through auditory language, specifically the English language. The film’s main characters interact almost entirely within the recording studio of a local radio station, while zombies are only pictured on screen once - or within a narrow sequence. The protagonists’ only knowledge of the viral outbreak comes from outside accounts of the epidemic provided by their weatherman, Ken Loney, and listeners to their radio broadcast who call in to the station while the characters are on air. The virus is later described to them during their live broadcast in the recording studio by Dr. Menendez, a local medical doctor who theorizes that the virus is being spread through language:
 
-> If…if the bug enters us, it does not enter by making contact with our eardrum. No. It enters
-us when we hear the word and we understand it. Understand? It is when the word is understood, that the virus takes hold.
+"If…if the bug enters us, it does not enter by making contact with our eardrum. No. It enters
+us when we hear the word and we understand it. Understand? It is when the word is understood, that the virus takes hold."
 
 The idea that a virus could be spread through a language --especially a language as widely spoken as English-- speaks to the capability of language to transmit and spread harmful and chaotic ideologies. In the world of _Pontypool_, much like in our own world, language and communication can be used to incite chaos, violence, and terror. It is important to note that within _Pontypool_, Dr. Menendez emphasizes that the virus is not spread through language alone--it takes hold once a word or a phrase is understood by the infected person. Therefore, it is not just the act of hearing a word or phrase, but it is when someone understands and accepts it that the virus can wield any power over them. 
 
