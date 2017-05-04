@@ -4,7 +4,7 @@ author: group5
 layout: article
 published: true
 title: Zombie Ethics
-storymap_id: 00dccdb141c5558ea8255ea000663d1d/zombie-project/index.html
+storymap_id: 00dccdb141c5558ea8255ea000663d1d
 storymap_title: Zombie Ethics
 ---
 ## Zombie Ethics: How will Human morality react to the Zombie Apocalypse?
@@ -71,9 +71,3 @@ Works Cited
 ·   	Lawrence, Kieth, and Terry Keheler. "Structural Racism." N.p., 2004. Web. <http://www.intergroupresources.com/rc/Definitions%20of%20Racism.pdf>.
 Wilson, J. P., Hugenberg, K., & Rule, N. O. (2017, March 13). Racial Bias in Judgments of Physical Size and Formidability: From Size to Threat. Journal of Personality and Social Psychology. Advance online publication. http://dx.doi.org/10.1037/pspi0000092
 "Social Changes During the War." Digital History. N.p., 2016. Web. 03 May 2017.
- 
-
- 
-
-
-
