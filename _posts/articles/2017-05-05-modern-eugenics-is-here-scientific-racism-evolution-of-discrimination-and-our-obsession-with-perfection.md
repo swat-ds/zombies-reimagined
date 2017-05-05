@@ -1,0 +1,18 @@
+---
+modified: '2017-05-05 16:01 -0400'
+author: group5
+layout: article
+published: false
+title: >-
+  Modern Eugenics is Here: Scientific Racism, Evolution of Discrimination, and
+  Our Obsession with Perfection
+---
+
+
+
+#### The Roots of Discrimination
+To begin tracing the path where America acquired its collective ideology of discrimination and racism, we must first attend to the arrival of Christopher Columbus who was the first to essentially establish this concept of an other in America. As detailed in *The Four Voyages of Christopher Columbus*, the 15th century explorer designated Caribs as cannibals, as the Other, with little evidence besides the word of their captive rivals. [^5] Thus, after this event, many indigenous populations had a false reputation of cannibalism. This reputation was the leverage the Europeans needed to establish dominion over the natives. Their culture and their societal power structure was remarkably foreign to the Europeans and was in conflict with their patriarchal Eurocentric ideals. For instance, in her book *Red Pedagogy*, Sandy Grande brings up the enduring view that Native American women were either “squaw drudges…bowed down with overwork and spousal oppression” or they were “Indian Princesses’ voluptuous and promiscuous objects of…men’s sexual desire.” [^6] The American ideal fell more closely to the latter woman, who more closely resembled someone who was “dependent and frail,” not someone who was weathered from working. [^6] This contributed to the false belief that the Natives’ culture was backwards. Their cultural dynamic was different, and therefore, they were savage. The Western White Male used their “savagery” as an excuse to pacify and tame their supposed barbaric culture. [^5]
+
+Following this initial contact, the Native Americans would soon find themselves accompanied in the category of the subjugated Other by the droves of enslaved peoples who were kidnapped and brought to America. White Americans were convinced they were superior to the Others. In an effort to keep their ideals as sovereign, they sought out evidence which would confirm their beliefs whether it was accurate or not. Their attention eventually turned to the studies of Samuel Morton. Morton took the skulls of individuals from a number of races, filled them with mustard seeds (later BB’s), and calculated the volume. The results, published in Crania Americana in 1839, showed that Caucasians had the largest brains; therefore, they must be the most intelligent race. [^7] While fallacious both morally and scientifically, it had an immense impact. The enslavement of Africans and their offspring were now justified since they were, according to Morton’s studies, deficient in brain function to the point it would be crueler to not enslave them.
+
+White Americans believed they had the most desirable culture and the largest brains, and they sought out other ways to ensure their power. With the Ugly Laws passed in 1867, their physical ideals became the ultimate exemplar of how a person should appear. These laws prevented individuals who were “diseased, maimed, mutilated, or in any way deformed, so as to be an unsightly or disgusting object” from appearing in public. [^7] Based on simple physical traits which did not fit their ideal, certain humans were exiled from society. Following The Ugly Laws in 1907, Indiana passed the first compulsory eugenic sterilization laws. Prisoners and mentally atypical individuals were stripped of their ability to procreate if there was “no probability of his or her mental improvement.” [^7] Due to the opinions a small committee, they were deemed unfit to have children, and their freedom of choice was revoked. They too became the Other because they differed from the norm. 
