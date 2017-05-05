@@ -66,6 +66,9 @@ The scene Ken’s character constructs is one that has become central to the zom
 
 ##Conclusion
 
-By analyzing works of zombie media including _Night of the Living Dead_, _Get Out_, _World War Z_, and _Pontypool_, we find that the zombie genre is well-equipped to make critical commentaries on the state of the world. A Critical Discourse Analysis of _Night of the Living Dead_ reveals the treatment of Black men and the view that they are more meat than human. Similarly, _Get Out_ communicates the lived experience of Black Americans and their treatment as subhuman. _World War Z_ emphasizes the divisive power of nationalism while _Pontypool_ addresses the ability of language to spread harmful ideologies and create chaos and the dangers of crowd mentality. Our analysis proves that zombie media is more than just entertaining; it is uniquely positioned to explore social and political issues.
+By analyzing works of zombie media including _Night of the Living Dead_, _Get Out_, _World War Z_, and _Pontypool_, we find that the zombie genre is well-equipped to make critical commentaries on the state of the world. A Critical Discourse Analysis of _Night of the Living Dead_ reveals the treatment of Black men and the view that they are more meat than human. Similarly, _Get Out_ communicates the lived experience of Black Americans and their treatment as subhuman. _World War Z_ emphasizes the divisive power of nationalism while _Pontypool_ addresses the ability of language to spread harmful ideologies and create chaos and the dangers of crowd mentality. Our analysis proves that zombie media is more than just entertaining; it is uniquely positioned to explore social and political issues.
 
-
+[^1]: Gomez, Michael A. "Time and Space." Exchanging Our Country Marks: The Transformation of African Identities in the Colonial and Antebellum South. Chapel Hill, NC: U of North Carolina, 1998. 17-37. Print.
+[^2]: Cone, James H. The Cross and the Lynching Tree. Maryknoll, NY: Orbis, 2011. Print.
+[^3]: History.com Staff. "Civil Rights Movement." History.com. A&E Television Networks, 2009. Web. 02 May 2017.
+[^4]: Frail, T. A. "The Injustice of Japanese-American Internment Camps Resonates Strongly to This Day." Smithsonian Magazine Jan. 2017: n. pag. Web. 3 May 2017.
