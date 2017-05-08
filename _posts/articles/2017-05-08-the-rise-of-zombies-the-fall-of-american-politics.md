@@ -4,6 +4,7 @@ author: group5
 layout: article
 published: false
 title: the-rise-of-zombies-the-fall-of-american-politics
+timeline_id: 1ZAhF4MHMsacRPDT3J5aj4LM7rU_i2hYmCxe8133lQwE
 ---
 > **"Zombie cinema represents ‘a stylized reaction to cultural consciousness and particularly to social and political injustices.’”** [^11] 
 
@@ -18,7 +19,9 @@ There was also a formal separation between political figures and the American pu
 As Cameron further shows, the American public gradually gets tired of this formal language, as she says “some hearers found the Queen’s performance too composed, and equated her measured rhetoric with a lack of deep and sincere feeling."[^2] Soon afterwards, also in 1999, ungrammatical or nonstandard remarks on Princess Diana’s death were  delivered  by Tony Blair. These remarks were accepted as more sincere and relatable. This conversationalization of political language in England in the late 1990s is also reflected in present day American politics.
 
 As with the gradual increase and proliferation in zombie media in the time between 1960 and present day, there was a concomitant shift in politics. Elected in 1969 and again in 1972, Richard Nixon signified a shift to the right in American politics. Just a few months into his second term, five men were caught breaking in Democratic party headquarters at the Watergate complex and were linked to his administration. After a series of events surrounding missing tapes that could indicate his knowledge of the break-in, Nixon was alerted that he had far fewer votes than he would need to avoid impeachment, and he resigned the presidency on August 9, 1974.[^14] This disgraceful event, known as the Watergate Scandal, was one of the biggest political scandals in American politics at the time, and had wide political and cultural reverberations, including “-gate” becoming a popular colloquial suffix for further scandals, law reform surrounding campaign finance, and the election of several democrats in the 1974 Senate and House elections. 
+
 There were several political scandals in the coming years, including probably the second-most famous Lewinsky scandal, where Bill Clinton had an affair with Monica Lewinsky and perjured himself by denying it, leading him to later resign. As Chris Cillizza stated in The Washington Post, 
+
 >“The Lewinsky story broke that ground — and either created a hunger among the public for those sorts of stories or simply filled a hunger that had always been there but was never sated.”
 
 If nothing else, there is a correlation between the increase in zombies in popular culture and the increase in political scandals and in the acceptability of colloquialism in the formal political arena. This correlation really heightens with the huge spike in zombie talk when the popular graphic novel, The Walking Dead, was made into a television show in 2010, and continues through present day with the campaign and election of Donald Trump. 
