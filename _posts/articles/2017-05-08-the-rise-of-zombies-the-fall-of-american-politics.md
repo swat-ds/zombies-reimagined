@@ -61,5 +61,5 @@ Up until recently, zombies represented the things that people feared at the time
 [^12]: Rangela, Renu. "'The Walking Dead': Why We Love The Gore And Violence." Health Aim. N.p., 15 Feb. 2016. Web. 01 May 2017.
 [^13]: Richard Nixon: "Inaugural Address," January 20, 1969. Online by Gerhard Peters and John T. Woolley, The American Presidency Project. 
 [^14]: "Richard Nixon." Wikipedia. Wikimedia Foundation, 30 Apr. 2017. Web. 01 May 2017.
-[^15]: Telhami, Shibley. "American Public Attitudes Toward the Israeli-Palestinian Conflict | Brookings Institution." Brookings. Brookings, 28 July 2016. Web. 01 May 2017.
+[^15]: Telhami, Shibley. "American Public Attitudes Toward the Israeli-Palestinian Conflict Brookings Institution." Brookings. Brookings, 28 July 2016. Web. 01 May 2017.
 [^16]: "The Walking Dead (TV Series)." Wikipedia. Wikimedia Foundation, 01 May 2017. Web. 01 May 2017.
