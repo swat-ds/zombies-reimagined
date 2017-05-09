@@ -2,11 +2,11 @@
 modified: '2017-05-08 13:35 -0400'
 author: group5
 layout: article
-published: false
+published: true
 title: the-rise-of-zombies-the-fall-of-american-politics
 timeline_id: 1ZAhF4MHMsacRPDT3J5aj4LM7rU_i2hYmCxe8133lQwE
 ---
-> **"Zombie cinema represents ‘a stylized reaction to cultural consciousness and particularly to social and political injustices.’”** [^11] 
+>**"Zombie cinema represents ‘a stylized reaction to cultural consciousness and particularly to social and political injustices.’”** [^11] 
 
 It is not difficult now to find blood-splattered, graphic t-shirts, romantic comedies about the undead falling in love, or zombie apocalypse memes. There is no denying the growing interest in zombie culture, one that, not unlike a zombie, has risen from the dead in recent years. After the shocking release of _Night of the Living Dead_ in 1968, many followers came along to ultimately construct the zombie as what we know it as today: a reanimated, flesh-eating cannibal. Here, we will bring in some of these so-called followers, particularly _The Walking Dead_ and _Santa Clarita Diet_ in order to analyze the different lenses in which we view the “zombie” and how accepting we have become of the undead. Comparing this change in opinion and progression of our zombie acceptance, we will then discuss the parallel seen in our current political climate, shocking in its proliferation of scandals. The language used by the recently inaugurated Trump administration, and its seeming parallel to the decrease in empathy of the American public, mirrors the humanity that viewers put aside when they are entertained by onscreen narratives involving people literally eating other people. 
 
