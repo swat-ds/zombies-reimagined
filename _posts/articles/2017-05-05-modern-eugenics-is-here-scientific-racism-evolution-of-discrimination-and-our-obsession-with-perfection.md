@@ -6,6 +6,7 @@ published: false
 title: >-
   Modern Eugenics is Here: Scientific Racism, Evolution of Discrimination, and
   Our Obsession with Perfection
+timeline_id: 1hDaA3zcVGCMHAzb1-BZ3JZoPmrDur-kIYvXlNRpkfjw
 ---
 
 ### Modern Eugenics is Here: Scientific Racism, Evolution of Discrimination, and Our Obsession with Perfection
