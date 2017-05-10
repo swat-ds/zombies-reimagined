@@ -48,7 +48,7 @@ tampering with their offspring's genetic makeup or who fail to abort a deprived
 fetus condemn their children to a life of routine discrimination. Officially they
 are called In-Valids.  Also known as godchildren, men-of-god, faith births,
 blackjack births, deficients, defectives, genojunk, ge-gnomes, the fucked-up
-people.” 
+people.” [^9]
 
 It was hard to tell if the epithets for the “In-Valids” were positive or negative with just the first few description such as god-children, men-of-god, and faith births. However, if we put it into context that the movie is science fiction and the fact that science and religion oppose one another, then we could predict that these were negative descriptions with just the first 3 epithets of the “In-Valids”  When the other descriptions were mentioned, it became clear that they were insults. Although this seems like a new form of discrimination based on two categories -genetically engineered “Valids” , or the unmodified “In-Valids”- these subcategories stem from the socioeconomic disparity and discrimination currently apart of our society.
 ###### Other Possible Future: No Discrimination
@@ -58,13 +58,13 @@ Although a future with no discrimination would be ideal, the idea of a single co
 
 Sources: 
 [^1]: Lopez, G. (2014, December 19). Bill O'Reilly: Black people should wear "don't get pregnant at 14" shirts. Retrieved May 01, 2017, from http://www.vox.com/2014/12/19/7419753/bill-oreilly-racism
-2. Oxford Dictionaries - Dictionary, Thesaurus, & Grammar. (n.d.). Retrieved May 01, 2017, from https://en.oxforddictionaries.com/
-3. "Black Lives Matter". N.p., 2017. Web. 3 May 2017, from http://blacklivesmatter.com/about/
-4. Cameron, D. (2001). Working with spoken discourse. Sage.
-5. Cohen, J. M. (1969). The four voyages of Christopher Columbus: Being his own log-book, letters and dispatches with connecting narrative drawn from the Life of the Admiral by his son Hernando Colon and other contemporary historians. Harmondsworth: Penguin.
-6. Grande, S. (2004). Red pedagogy: Native American social and political thought. Lanham, Md: Rowman & Littlefield Publishers.
-7. Online Eugenics Archive. (n.d.). Retrieved May 01, 2017, from http://eugenicsarchive.ca/discover/timeline/53234888132156674b00024e
-8. US scientists urge ban on human genetic modification. (2015, November 30). Retrieved April 30, 2017, from http://www.aljazeera.com/news/2015/11/scientists-urge-ban-human-genetic-modification-151130163522308.html
-9. Entine, J. (2012, November 27). Gattaca Alert? Or Should We Welcome the New Age of Eugenics? Retrieved April 30, 2017, from https://www.forbes.com/sites/jonentine/2012/11/26/gattaca-alert-or-should-we-welcome-the-new-age-of-eugenics/#36d2158c4324
-10. Skloot, R. (2017). The immortal life of Henrietta Lacks. New York: Broadway Books.
-11. Kurzweil, R. (2016). The singularity is near: when humans transcend biology. London: Duckworth.
+[^2]: Oxford Dictionaries - Dictionary, Thesaurus, & Grammar. (n.d.). Retrieved May 01, 2017, from https://en.oxforddictionaries.com/
+[^3]: "Black Lives Matter". N.p., 2017. Web. 3 May 2017, from http://blacklivesmatter.com/about/
+[^4]: Cameron, D. (2001). Working with spoken discourse. Sage.
+[^5]: Cohen, J. M. (1969). The four voyages of Christopher Columbus: Being his own log-book, letters and dispatches with connecting narrative drawn from the Life of the Admiral by his son Hernando Colon and other contemporary historians. Harmondsworth: Penguin.
+[^6]: Grande, S. (2004). Red pedagogy: Native American social and political thought. Lanham, Md: Rowman & Littlefield Publishers.
+[^7]: Online Eugenics Archive. (n.d.). Retrieved May 01, 2017, from http://eugenicsarchive.ca/discover/timeline/53234888132156674b00024e
+[^8]: US scientists urge ban on human genetic modification. (2015, November 30). Retrieved April 30, 2017, from http://www.aljazeera.com/news/2015/11/scientists-urge-ban-human-genetic-modification-151130163522308.html
+[^9]: Entine, J. (2012, November 27). Gattaca Alert? Or Should We Welcome the New Age of Eugenics? Retrieved April 30, 2017, from https://www.forbes.com/sites/jonentine/2012/11/26/gattaca-alert-or-should-we-welcome-the-new-age-of-eugenics/#36d2158c4324
+[^10]: Skloot, R. (2017). The immortal life of Henrietta Lacks. New York: Broadway Books.
+[^11]: Kurzweil, R. (2016). The singularity is near: when humans transcend biology. London: Duckworth.
