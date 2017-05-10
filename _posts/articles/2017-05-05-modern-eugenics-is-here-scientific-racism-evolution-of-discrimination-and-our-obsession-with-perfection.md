@@ -17,7 +17,7 @@ Discrimination is evident today in mainstream news media, and it may persist in 
 ##### Harmful Racialized Discourses in News Media
 Proposed new phrase for Black Lives Matter shirts: 
 
->“Don't abandon your children. Don't get pregnant at 14. Don't allow your neighborhoods to deteriorate into free-fire zones.”[^1]
+> “Don't abandon your children. Don't get pregnant at 14. Don't allow your neighborhoods to deteriorate into free-fire zones.”[^1]
 
 Over the past several years, Fox 9 News anchorman Bill O’Reilly has explicitly demonstrated racism in his televised broadcasts and on-air interviews. In order to produce fruitful discourse, as suggested by poet Alysia Harris, our disagreements require our agreement on what we are disagreeing about (A. Harris, workshop, April 5, 2017). Therefore, we define racism as “prejudice, discrimination, or antagonism directed against someone of a different race based on the belief that one's own race is superior.”[^2] Through his racist remarks, Bill O’Reilly has projected his definition of human centered upon Whiteness.
 
