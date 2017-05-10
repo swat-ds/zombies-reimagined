@@ -3,6 +3,7 @@ modified: '2017-05-08 13:35 -0400'
 author: group5
 layout: article
 published: true
+image_teaser: rise-thumb.jpg
 title: 'The Rise of Zombies, The Fall of American Politics'
 timeline_id: 1ZAhF4MHMsacRPDT3J5aj4LM7rU_i2hYmCxe8133lQwE
 ---
