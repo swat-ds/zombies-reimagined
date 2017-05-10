@@ -10,8 +10,10 @@ timeline_id: 1hDaA3zcVGCMHAzb1-BZ3JZoPmrDur-kIYvXlNRpkfjw
 ---
 
 ### Modern Eugenics is Here: Scientific Racism, Evolution of Discrimination, and Our Obsession with Perfection
+
 ##### Introduction
 Discrimination is evident today in mainstream news media, and it may persist in the future in the form of genetic discrimination. The present essay interrogates how historical descriptions of the Other are reflective of how racism and discrimination evolved with and contributed to the highly racialized concept of eugenics in the United States. We use Critical Discourse Analysis as a tool to examine language by contextualizing discourse, reviewing broader implications of word choice, and investigating unequal power dynamics. Furthermore, we trace the outline of how the history of the U.S. feeds into current popular culture, as evidenced by talk show host Bill O’Reilly, and how this might be extrapolated to predict the future implications of these practices of discrimination. This contribution, along with the others in the series, analyzes race, gender, and structural inequalities present in transmedia. We were inspired to pursue this topic by our tour of the Samuel Morton Cranial Collection, reading primary sources on scientific racism, and a workshop on the semantics of racism with poet Alysia Harris.
+
 ##### Harmful Racialized Discourses in News Media
 Proposed new phrase for Black Lives Matter shirts: 
 >“Don't abandon your children. Don't get pregnant at 14. Don't allow your neighborhoods to deteriorate into free-fire zones.”[^1]
