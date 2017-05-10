@@ -59,7 +59,6 @@ The future of society seems to either be heading towards a new form of discrimin
 ##### Conclusion
 Although a future with no discrimination would be ideal, the idea of a single consciousness does not look very promising. What is the quintessential way of thinking? Who would hold the power to design this system and impose their ideas of perfection? We have the power to prevent technology and our obsession with perfection, a perfection that is heavily biased towards White men who have the most power, from overruling our humanity. With the growing ethical issues of using these new technologies, we should take action and monitor the implementation of these gadgets in society since it can completely change life as we know it.
 
-Sources:
 
 [^1]: Lopez, G. (2014, December 19). Bill O'Reilly: Black people should wear "don't get pregnant at 14" shirts. Retrieved May 01, 2017, from http://www.vox.com/2014/12/19/7419753/bill-oreilly-racism
 [^2]: Oxford Dictionaries - Dictionary, Thesaurus, & Grammar. (n.d.). Retrieved May 01, 2017, from https://en.oxforddictionaries.com/
