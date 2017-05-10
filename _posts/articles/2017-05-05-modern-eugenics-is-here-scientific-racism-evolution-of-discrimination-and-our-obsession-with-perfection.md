@@ -51,7 +51,7 @@ tampering with their offspring's genetic makeup or who fail to abort a deprived
 fetus condemn their children to a life of routine discrimination. Officially they
 are called In-Valids.  Also known as godchildren, men-of-god, faith births,
 blackjack births, deficients, defectives, genojunk, ge-gnomes, the fucked-up
-people.”
+people.”[^9]
 
 It was hard to tell if the epithets for the “In-Valids” were positive or negative with just the first few description such as god-children, men-of-god, and faith births. However, if we put it into context that the movie is science fiction and the fact that science and religion oppose one another, then we could predict that these were negative descriptions with just the first 3 epithets of the “In-Valids”  When the other descriptions were mentioned, it became clear that they were insults. Although this seems like a new form of discrimination based on two categories -genetically engineered “Valids” , or the unmodified “In-Valids”- these subcategories stem from the socioeconomic disparity and discrimination currently apart of our society.
 
