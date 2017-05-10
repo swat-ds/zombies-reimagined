@@ -15,13 +15,15 @@ Philosophers have argued for centuries whether or not humans are born inherently
  
 ##  Racism
 
-	“_Shoot first, ask questions about morality  later._”
+	“Shoot first, ask questions about morality  later.”
 
 Structural racism is the combined results of institutionalized practice and learn behavior. 
 
 For the sake of this essay, racism will be defined as “the normalization and legitimization of an array of dynamics – historical, cultural, institutional and interpersonal – that routinely advantage Whites while producing cumulative and chronic adverse outcomes for people of color”.(2)  
 One example of structural racism is the inordinate amount of unarmed Black men being murdered by police throughout the United States. This can be credited to the negative stereotypes associated with Black males. 
+
 	“For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” (5)
+    
 This article gives insight into how police justify the murder of Black males given their perceived that they are larger and more formidable than their White counterparts, which justifies more force exerted when subduing them. Given how racist practices like this surface everyday in American society, we predict racism will continue to surface in post-apocalyptic settings after the collapse of a society. Although society in America has not yet fallen apart, accurate predictions of human behavior can be drawn from previous cases in history where American society was on the brink of collapse. For example, both World Wars I and II were considered to be a “total war”, or a war that required the combined efforts of the entire population and resources of the entire country to win. This meant that people of color, women, and people of all gender identities were involved in the wartime effort. These two wars were the closest America has come to collapsing, and despite this, minorities were viciously oppressed during and after both World Wars.
  “During the war, the Marines excluded Blacks, the Navy used them as servants, and the Army created separate Black regiments commanded mostly by white officers. The Red Cross even segregated blood plasma.” (Social Changes During the War, Digital History)
 Morality was at an extreme low and human rights continued to be violated  during the two most deadly wars in American history, so the idea that human nature would become altruistic  during an apocalypse is highly improbable.  In fact, without the laws in place today that guarantee inalienable human rights, America’s moral compass could only become worse. 
@@ -31,12 +33,12 @@ Morality was at an extreme low and human rights continued to be violated  during
 The Walking Dead follows sheriff's deputy Rick Grimes, who awakens from a coma to discover a world overrun by zombies, commonly referred to as "walkers". Grimes eventually reunites with his family and becomes the leader of a band he forms with other survivors in the Atlanta area. Together, they struggle to survive and adapt to a post-apocalyptic world filled with walkers and opposing groups of survivors, who are often more dangerous than the walkers themselves.
 In Season 2, Episode 1 (2011) of The Walking Dead, T Dawg expresses fear for his life not only as a human attempting to survive the zombie apocalypse, but also as a Black man trying to survive in the American South . T Dawg is not making these claims without reason, as he was called the n-word and was assaulted by Meryl, a bigoted White southern male survivor. In a private conversation with Dale, T Dawg expresses his concerns for his immediate safety, drawing attention to his vulnerable status as the only black survivor he knows.
 
-	**T Dawg:** What are you, 70? - 
- 	**Dale**: 64.
-	**T Dawg**: Uh-huh,  and I am the one Black guy. Realize how precarious that makes my situation? 
-	**Dale**: What the hell are you talking about? -
-	**T Dawg**: I am talking about two good-old-boy cowboy sheriffs and a redneck whose brother cut off his own hand because I dropped a key. Who in that scenario you think is gonna be first to get lynched? 
-	**Dale**: You can not be serious. Am I-- Hey, am I missing something? Those cowboys have done alright by us.
+	T Dawg: What are you, 70? - 
+ 	Dale: 64.
+	T Dawg: Uh-huh,  and I am the one Black guy. Realize how precarious that makes my situation? 
+	Dale: What the hell are you talking about? -
+	T Dawg: I am talking about two good-old-boy cowboy sheriffs and a redneck whose brother cut off his own hand because I dropped a key. Who in that scenario you think is gonna be first to get lynched? 
+	Dale: You can not be serious. Am I-- Hey, am I missing something? Those cowboys have done alright by us.
     
 This scene is particularly powerful because it allows viewers to experience what race relations outside of a structured society might  be like. Dale, a middle aged White male, refuses to acknowledge T Dawg’s concerns about racism, and defends Meryl without even acknowledging his well established racist actions. The refusal to acknowledge problematic power structures has continued for centuries in the U.S, and we have good reason to suspect that this trend will continue during an apocalypse as well.
 ## **Ethics in Human and Zombie History**
