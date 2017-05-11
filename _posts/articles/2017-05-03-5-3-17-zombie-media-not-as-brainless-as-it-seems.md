@@ -2,7 +2,7 @@
 modified: '2017-05-03 15:59 -0400'
 author: group5
 layout: article
-published: false
+published: true
 title: '5.3.17 Zombie Media, Not as Brainless as it Seems'
 timeline_id: >-
   https://docs.google.com/spreadsheets/d/1SI1tP5JP3er13XfInE0LE6r8FoOtnwgTmzo7JILO-Uk/pubhtml
