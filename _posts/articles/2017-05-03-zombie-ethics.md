@@ -5,7 +5,7 @@ layout: article
 published: true
 title: Zombie Ethics
 storymap_id: 00dccdb141c5558ea8255ea000663d1d
-storymap_title: Zombie-Ethics
+storymap_title: zombie-project
 ---
 # **Zombie Ethics: Examining Human Morality Before & During the Apocalypse**
  
