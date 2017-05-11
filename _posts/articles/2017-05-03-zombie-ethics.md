@@ -81,21 +81,6 @@ Key questions that this essay has considered concern whether humans are inherent
 Perhaps when we first considered the zombie apocalypse, we would think that the dissolution of society will be accompanied by the dissolution of all its ills - White supremacy, elitism, corruption and sexism. However, historical evidence suggests that perhaps these manifestations of structural inequity may be too deeply embedded within society, and each one of us, for these to be completely overcome.
 
 
-.
-
-
-
-.
-
-
-
-.
-
-
-
-.
-
-
 
 ## **Works Cited**
 
