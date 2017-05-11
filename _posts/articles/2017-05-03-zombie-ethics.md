@@ -3,6 +3,7 @@ modified: '2017-05-03 16:02 -0400'
 author: group5
 layout: article
 published: true
+image_teaser: human-butcher-shop.png
 title: Zombie Ethics
 storymap_id: 00dccdb141c5558ea8255ea000663d1d
 storymap_title: Zombie-Ethics
