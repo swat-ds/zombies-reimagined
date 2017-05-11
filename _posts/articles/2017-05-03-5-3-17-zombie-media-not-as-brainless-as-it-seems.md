@@ -23,7 +23,7 @@ George Romero’s classic horror film _Night of the Living Dead_ (1968) follows 
 
 However, the most important part of the film’s ending is the continuing visual narrative played as background to the rolling credits, in which still images of the men disposing of Ben’s body are shown. The men first stand around Ben’s body and then drag him out of the house using meat hooks. This treatment of his body illustrates how the men see Ben as inhuman, a piece of meat to be disposed of. 
 
-![]({{site.url}}/https://cdn2.vox-cdn.com/uploads/chorus_asset/file/7375035/Screen%20Shot%202016-10-30%20at%202.06.07%20PM.png)
+![](https://cdn2.vox-cdn.com/uploads/chorus_asset/file/7375035/Screen%20Shot%202016-10-30%20at%202.06.07%20PM.png)
 
 What is compelling about a zombie film addressing racial issues is the parallelism that is constructed between the Black man and the zombie. Ben’s treatment by the group of White men can be seen as overtly racist, but it can also be argued that their actions were not discriminatory towards Ben because he was Black, but because they thought him to be a zombie. The film’s end is interpretable and relatable to the political and civil climate of the 1960s and draws attention to the discrimination and violence against Black Americans.
 
