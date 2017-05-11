@@ -19,10 +19,10 @@ Philosophers have argued for centuries whether or not humans are born inherently
 
 Structural racism is the combined results of institutionalized practice and learn behavior. 
 
-For the sake of this essay, racism will be defined as “the normalization and legitimization of an array of dynamics – historical, cultural, institutional and interpersonal – that routinely advantage Whites while producing cumulative and chronic adverse outcomes for people of color”.(2)  
+For the sake of this essay, racism will be defined as “the normalization and legitimization of an array of dynamics – historical, cultural, institutional and interpersonal – that routinely advantage Whites while producing cumulative and chronic adverse outcomes for people of color”.[^2]  
 One example of structural racism is the inordinate amount of unarmed Black men being murdered by police throughout the United States. This can be credited to the negative stereotypes associated with Black males. 
 
-	“For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” (5)
+	“For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” [^5]
     
 This article gives insight into how police justify the murder of Black males given their perceived that they are larger and more formidable than their White counterparts, which justifies more force exerted when subduing them. Given how racist practices like this surface everyday in American society, we predict racism will continue to surface in post-apocalyptic settings after the collapse of a society. Although society in America has not yet fallen apart, accurate predictions of human behavior can be drawn from previous cases in history where American society was on the brink of collapse. For example, both World Wars I and II were considered to be a “total war”, or a war that required the combined efforts of the entire population and resources of the entire country to win. This meant that people of color, women, and people of all gender identities were involved in the wartime effort. These two wars were the closest America has come to collapsing, and despite this, minorities were viciously oppressed during and after both World Wars.
  “During the war, the Marines excluded Blacks, the Navy used them as servants, and the Army created separate Black regiments commanded mostly by white officers. The Red Cross even segregated blood plasma.” (Social Changes During the War, Digital History)
@@ -41,11 +41,12 @@ In Season 2, Episode 1 (2011) of The Walking Dead, T Dawg expresses fear for his
 	Dale: You can not be serious. Am I-- Hey, am I missing something? Those cowboys have done alright by us.
     
 This scene is particularly powerful because it allows viewers to experience what race relations outside of a structured society might  be like. Dale, a middle aged White male, refuses to acknowledge T Dawg’s concerns about racism, and defends Meryl without even acknowledging his well established racist actions. The refusal to acknowledge problematic power structures has continued for centuries in the U.S, and we have good reason to suspect that this trend will continue during an apocalypse as well.
+
 ## **Ethics in Human and Zombie History**
 
 The Zombie Survival Guide, published in 2003, is a fictional but comprehensive guide to surviving in a zombie-infested world. It presents an alternative history set in the real world. The author Max Brooks describes prevailing attitudes that Europeans had during periods of colonial expansion. Jean Beart Lacoutour, a French businessman, describes in a letter how the French colonists would force the residents of Indochina (or modern Vietnam) to fight in a cage with zombies for the entertainment of the French. 
 
-	“A living human is placed in a cage with one of these creatures. Our human has with him only a small blade, perhaps eight centimeters at most… Will he survive his waltz with the living corpse? If so, how long will he last?”(Brooks , The Zombie Survival Guide)  
+	“A living human is placed in a cage with one of these creatures. Our human has with him only a small blade, perhaps eight centimeters at most… Will he survive his waltz with the living corpse? If so, how long will he last?”(Brooks, The Zombie Survival Guide)  
                     
 As this excerpt shows, the French had no regard for the safety of their colonial subjects, as they would treat their lives as a matter of entertainment - a sport to watch. The colonists notoriously committed dozens of human rights violations towards the people they exploited, and this excerpt demonstrates that racism or cultural superiority of a cruel nature can still persist during a situation as grave as a zombie apocalypse. 
 
@@ -77,3 +78,36 @@ A common thread that we have explored in our seminar _Languages of Fear, Racism 
 Key questions that this essay has considered concern whether humans are inherently good or bad, and also society's influence upon our behavior. We have argued that our moral compass will spin south during the apocalypse, but historic periods of colonization,  as with French Indochina,  or circumstances of total war, as in World War  II, suggest that humans have not shown  much regard for life in the first place. Furthermore, numerous examples of racism in history and fictional zombie accounts suggest that power structures that promote racism may be too deeply embedded within societal structures to simply vanish with the collapse of American society.  In 1964, the Civil Rights Act prohibited laws that encouraged segregation, yet ideologies of racism and white supremacy are still prevalent over 50 years later. Despite the prohibition of segregation, minority groups have continued to face brutal acts of discrimination. This is evident in all walks of life,  from the alarming statistics of Black Americans killed by the police to the discrimination of minorities within the American military that still occur today. 
 
 Perhaps when we first considered the zombie apocalypse, we would think that the dissolution of society will be accompanied by the dissolution of all its ills - White supremacy, elitism, corruption and sexism. However, historical evidence suggests that perhaps these manifestations of structural inequity may be too deeply embedded within society, and each one of us, for these to be completely overcome.
+
+
+.
+
+
+
+.
+
+
+
+.
+
+
+
+.
+
+
+
+## **Works Cited**
+
+[^1]: Stafford, Tom. "BBC - Future - Are we naturally good or bad?" BBC News. BBC, n.d. Web. 10 May 2017.
+
+[^2]: Moore, Tony, Charlie Adhard, Frank Darabont, and Robert Kirkman. "Bloodletting." The Walking Dead. 23 Oct. 2011. Television. Transcript.
+
+[3^]: Brooks, Max. World War Z: An Oral History of the Zombie War. New York: Broadway Paperbacks, 2006. Print.
+
+[4^]: Brooks, Max. The Zombie Survival Guide: Complete Protection from the Living Dead. Baltimore: Cemetery Dance Publications, 2014. Print.
+
+[5^]: Lawrence, Kieth, and Terry Keheler. "Structural Racism." N.p., 2004. Web. <http://www.intergroupresources.com/rc/Definitions%20of%20Racism.pdf>.
+
+[6^]: Wilson, J. P., Hugenberg, K., & Rule, N. O. (2017, March 13). Racial Bias in Judgments of Physical Size and Formidability: From Size to Threat. Journal of Personality and Social Psychology. Advance online publication. http://dx.doi.org/10.1037/pspi0000092
+
+[7^]: "Social Changes During the War." Digital History. N.p., 2016. Web. 03 May 2017.
