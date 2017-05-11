@@ -1,9 +1,9 @@
 ---
+image_teaser: human-butcher-shop.png
 modified: '2017-05-03 16:02 -0400'
 author: group5
 layout: article
 published: true
-image_teaser: human-butcher-shop.png
 title: Zombie Ethics
 storymap_id: 00dccdb141c5558ea8255ea000663d1d
 storymap_title: zombie-project
@@ -12,7 +12,7 @@ storymap_title: zombie-project
  
 ## Introduction
 
-Philosophers have argued for centuries whether or not humans are born inherently good or evil. “If we are born with a good nature, then it is society that corrupts us, and if we are born with a bad nature, society is what keeps our desire to commit evil at bay.”  No matter which side of the argument you defend, it is an undisputable fact that when faced with apocalypse and the dissolution of society, actions once considered drastic become the norm as humans struggle to survive. This reversal of moral codes is explored well within the zombie genre. Flesh-eating monsters are an ever present threat within zombie media, but perhaps the greatest challenges are the repugnant choices humans are faced with - choices such as  murder, theft, cannibalism, and many more sacrifices of morality. With the rise of zombies in our popular culture within the last few decades, there have been increasingly realistic and profound depictions of the world reacting to a zombie apocalypse. We center upon examples of these depictions here, through critical discourse analysis of select scenes from _The Walking Dead_, _The Zombie Survival Guide_, and _World War Z_. As a result of our analysis, we make predictions as to how humans will fare in the apocalypse. This is significant because our exploration of the landscape of zombie media  illustrates not only the nature of humankind, but also the contemporary issues of racism and classism  issues that we face today, specifically in the U.S.
+Philosophers have argued for centuries whether or not humans are born inherently good or evil. “If we are born with a good nature, then it is society that corrupts us, and if we are born with a bad nature, society is what keeps our desire to commit evil at bay.” [^1]  No matter which side of the argument you defend, it is an undisputable fact that when faced with apocalypse and the dissolution of society, actions once considered drastic become the norm as humans struggle to survive. This reversal of moral codes is explored well within the zombie genre. Flesh-eating monsters are an ever present threat within zombie media, but perhaps the greatest challenges are the repugnant choices humans are faced with - choices such as  murder, theft, cannibalism, and many more sacrifices of morality. With the rise of zombies in our popular culture within the last few decades, there have been increasingly realistic and profound depictions of the world reacting to a zombie apocalypse. We center upon examples of these depictions here, through critical discourse analysis of select scenes from _The Walking Dead_, _The Zombie Survival Guide_, and _World War Z_. As a result of our analysis, we make predictions as to how humans will fare in the apocalypse. This is significant because our exploration of the landscape of zombie media  illustrates not only the nature of humankind, but also the contemporary issues of racism and classism  issues that we face today, specifically in the U.S.
  
 ##  Racism
 
@@ -20,10 +20,10 @@ Philosophers have argued for centuries whether or not humans are born inherently
 
 Structural racism is the combined results of institutionalized practice and learn behavior. 
 
-For the sake of this essay, racism will be defined as “the normalization and legitimization of an array of dynamics – historical, cultural, institutional and interpersonal – that routinely advantage Whites while producing cumulative and chronic adverse outcomes for people of color”.[^2]  
+For the sake of this essay, racism will be defined as “the normalization and legitimization of an array of dynamics – historical, cultural, institutional and interpersonal – that routinely advantage Whites while producing cumulative and chronic adverse outcomes for people of color”.[^5]  
 One example of structural racism is the inordinate amount of unarmed Black men being murdered by police throughout the United States. This can be credited to the negative stereotypes associated with Black males. 
 
-	“For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” [^5]
+	“For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” [^6]
     
 This article gives insight into how police justify the murder of Black males given their perceived that they are larger and more formidable than their White counterparts, which justifies more force exerted when subduing them. Given how racist practices like this surface everyday in American society, we predict racism will continue to surface in post-apocalyptic settings after the collapse of a society. Although society in America has not yet fallen apart, accurate predictions of human behavior can be drawn from previous cases in history where American society was on the brink of collapse. For example, both World Wars I and II were considered to be a “total war”, or a war that required the combined efforts of the entire population and resources of the entire country to win. This meant that people of color, women, and people of all gender identities were involved in the wartime effort. These two wars were the closest America has come to collapsing, and despite this, minorities were viciously oppressed during and after both World Wars.
  “During the war, the Marines excluded Blacks, the Navy used them as servants, and the Army created separate Black regiments commanded mostly by white officers. The Red Cross even segregated blood plasma.” (Social Changes During the War, Digital History)
