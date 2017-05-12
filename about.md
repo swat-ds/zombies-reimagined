@@ -43,17 +43,37 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 
 #### Contributors
 
+- **Dr. Jamie A. Thomas** is Assistant Professor of Linguistics at Swarthmore College. Her forthcoming ethnography Zombies Speak Swahili is all about the undead, videogames, and why language matters. She teaches sociolinguistics, linguistic anthropology, and applied linguistics with attention to spoken discourse and visual and textual semiotics.
+
+*Languages of Fear, Racism, and Zombies*, Spring 2017, Swarthmore College:
+
+- **Elena Do** ‘20 is a freshman at Swarthmore College. Her intended major is neuroscience but interests also lie in bioethics, chemistry, and dance. 
+
+- **Leilani Garcia** ‘20 is a Swarthmore College freshman from Portland, Oregon interested in Psychology and Art History. 
+
+- **Yash Kewalramani**
+
+- **Gabrielle (Rose) Kolinsky** is a first year student at Swarthmore College from Walden, New York. She intends to double major in Computer Science and Psychology.
+
+- **Cindy Li** ‘20 is a freshman at Swarthmore College interested in Computer Science and Educational Studies. Originally from New York, she loves dancing and hopes to one day become a teacher. 
+
+- **Richard Mobley** ‘20 is a first-year student at Swarthmore College interested in pursuing English Literature and Psychology. He is a photographer using his prowess to capture pretty pictures of birds for the Bird Club.
+
+- **Alejandra Sandoval** ‘20 is a freshman at Swarthmore College from Gadsden, Arizona. She is  interested in double majoring in Psychology and Spanish and enjoys reading and watching How to Get Away with Murder. 
+
+- **Kendre Thomas**
+
+<hr/>
+
 *Languages of Fear, Racism, and Zombies*, Spring 2016, Swarthmore College:
 
-- **Eojin (Jin) Choi '19** is a first-year student at Swarthmore College. She loves to travel, and some of her  
-  favorite places include Mongolia, Uzbekistan, and Myanmar.
+- **Eojin (Jin) Choi '19** is a first-year student at Swarthmore College. She loves to travel, and some of her favorite places include Mongolia, Uzbekistan, and Myanmar.
 - **Shuang Guan '19** is a first year at Swarthmore College, studying Math, Linguistics, and Chinese literature. She's involved in Swarthmore Asian Organization and the Dare2Soar tutoring program. Shuang used to get really squeamish about zombies or scary movies. She still does, but this class has helped her lessen the squeamishness and find a larger meaning beyond the gore.
 - **Alexander Jin '19** is a freshman at Swarthmore College who is going to major in history and is also academically interested in philosophy, sociology and political science. Outside of class, he is a Student Academic Mentor, a Tour Guide, and loves throwing pieces of plastic in the air (Ultimate Frisbee).
 - **Tiauna Lewis '19** is a first year at Swarthmore College specializing in Arabic, French, and Black Studies. She is a slam poet and member of Swarthmore's internationally recognized competitive slam team. Tiauna is involved in the African American Student Student Society, gospel choir, and OASIS, the spoken word collective. She is a horror movie enthusiast and has never met a dog she didn't like.
 - **Romeo Luevano '19** is a student at Swarthmore College. He's originally from Artesia, New Mexico. Romeo is currently studying Anthropology & Peace and Conflict Studies. He loves spending free time listening to music, playing video games, and eating really good food! 
 - **Faye Ma '19** was born and raised in Shanghai, China. She's now studying religion, music and anthropology at Swarthmore College and hoping to be an ethnomusicologist. Faye usually spends her spare time playing erhu, piano or cello, searching for good music, or reading novels.
 - **Gretchen Trupp '18** is a sophomore majoring in Languages and Linguistics at Swarthmore College, specializing in Chinese and Japanese. They are a board member of the Swarthmore Queer Union and are a part of the Title IX Student Liaison Board.
-- **Dr. Jamie A. Thomas** is Assistant Professor of Linguistics at Swarthmore College. Her forthcoming ethnography Zombies Speak Swahili is all about the undead, videogames, and why language matters. She teaches sociolinguistics, linguistic anthropology, and applied linguistics with attention to spoken discourse and visual and textual semiotics.
 
 Special thanks to Nabil Kashyap, Roberto Vargas and Stephen Jaoudi of Swarthmore College Libraries
 
