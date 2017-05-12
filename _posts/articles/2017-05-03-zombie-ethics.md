@@ -21,12 +21,14 @@ Philosophers have argued for centuries whether or not humans are born inherently
 Structural racism is the combined results of institutionalized practice and learn behavior. 
 
 For the sake of this essay, racism will be defined as “the normalization and legitimization of an array of dynamics – historical, cultural, institutional and interpersonal – that routinely advantage Whites while producing cumulative and chronic adverse outcomes for people of color”.[^5]  
-One example of structural racism is the inordinate amount of unarmed Black men being murdered by police throughout the United States. This can be credited to the negative stereotypes associated with Black males. 
+One example of structural racism is the inordinate amount of unarmed Black men being murdered by police throughout the United States. This can be credited to the negative stereotypes associated with Black males. For example, the superpredator stereotype holds that Black males, no matter their size,  are more dangerous than their white counterparts. 
 
 	“For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” [^6]
     
-This article gives insight into how police justify the murder of Black males given their perceived that they are larger and more formidable than their White counterparts, which justifies more force exerted when subduing them. Given how racist practices like this surface everyday in American society, we predict racism will continue to surface in post-apocalyptic settings after the collapse of a society. Although society in America has not yet fallen apart, accurate predictions of human behavior can be drawn from previous cases in history where American society was on the brink of collapse. For example, both World Wars I and II were considered to be a “total war”, or a war that required the combined efforts of the entire population and resources of the entire country to win. This meant that people of color, women, and people of all gender identities were involved in the wartime effort. These two wars were the closest America has come to collapsing, and despite this, minorities were viciously oppressed during and after both World Wars.
- “During the war, the Marines excluded Blacks, the Navy used them as servants, and the Army created separate Black regiments commanded mostly by white officers. The Red Cross even segregated blood plasma.” (Social Changes During the War, Digital History)
+This study by Wilson , Hugenberg, and Rule (2017)gives insight into how police and others  justify the murder of Black males based on the perception that they are larger and more formidable than their White counterparts. Given how racist practices like this surface everyday in American society, we predict racism will continue to surface in post-apocalyptic settings after the collapse of a society. Although society in America has not yet fallen apart, accurate predictions of human behavior can be drawn from previous cases in history where American society was on the brink of collapse. For example, both World Wars I and II were considered to be a “total war”, or a war that required the combined efforts of the entire population and resources of the entire country to win. This meant that people of color, women, and people of all gender identities were involved in the wartime effort. These two wars were the closest America has come to collapsing, and despite this, minorities were viciously oppressed during and after both World Wars.
+
+ “During the war, the Marines excluded Blacks, the Navy used them as servants, and the Army created separate Black regiments commanded mostly by white officers. The Red Cross even segregated blood plasma.” (Social Changes During the War, Digital History)[^7]
+ 
 Morality was at an extreme low and human rights continued to be violated  during the two most deadly wars in American history, so the idea that human nature would become altruistic  during an apocalypse is highly improbable.  In fact, without the laws in place today that guarantee inalienable human rights, America’s moral compass could only become worse. 
 
 ## Dale and T-Dawg in TWD
@@ -38,9 +40,9 @@ In Season 2, Episode 1 (2011) of The Walking Dead, T Dawg expresses fear for his
  	Dale: 64.
 	T Dawg: Uh-huh,  and I am the one Black guy. Realize how precarious that makes my situation? 
 	Dale: What the hell are you talking about? -
-	T Dawg: I am talking about two good-old-boy cowboy sheriffs and a redneck whose brother cut off his own hand because I dropped a key. Who in that scenario you think is gonna be first to get lynched? 
-	Dale: You can not be serious. Am I-- Hey, am I missing something? Those cowboys have done alright by us.
-    
+	T Dawg: I am talking about two good-old-boy cowboy sheriffs and a redneck whose brother cut off 	his own hand because I dropped a key. Who in that scenario you think is gonna be first to get 		lynched? 
+	Dale: You can not be serious. Am I-- Hey, am I missing something? Those cowboys have done alright 	  by us.
+	    
 This scene is particularly powerful because it allows viewers to experience what race relations outside of a structured society might  be like. Dale, a middle aged White male, refuses to acknowledge T Dawg’s concerns about racism, and defends Meryl without even acknowledging his well established racist actions. The refusal to acknowledge problematic power structures has continued for centuries in the U.S, and we have good reason to suspect that this trend will continue during an apocalypse as well.
 
 ## **Ethics in Human and Zombie History**
@@ -60,7 +62,7 @@ In World War Z, cannibalism was essential to the survival of one particular fami
 
 	“We all sang around the campfires at night, these giant bonfires of logs stacked up on one another.”  
     
-However, once they ran out of food, people turned on one another fairly quickly, and the situation became dire.  The decision to eat people was a difficult choice for Jesika’s parents, one they debated viciously the night they first tried human flesh. However, as they valued their survival over their morals, they ultimately gave in. “_No more fights, no more shooting. By Christmas Day there was plenty of food._” When first reading this chapter, we thought of it as no more than another interesting tale among numerous others in this book. However, upon further investigation, we began to regard this chapter as a social experiment that stood out, as it explores what life would be like if we were to remove societal norms and restrictions to our behavior.
+However, once they ran out of food, people turned on one another fairly quickly, and the situation became dire.  The decision to eat people was a difficult choice for Jesika’s parents, one they debated viciously the night they first tried human flesh. However, as they valued their survival over their morals, they ultimately gave in. “_No more fights, no more shooting. By Christmas Day there was plenty of food._” When first reading this chapter, we thought of it as no more than another interesting tale among numerous others in this book. However, upon further investigation, we began to regard this chapter as a social experiment that stood out, as it explores what life would be like if we were to remove societal norms and restrictions to our behavior.=
 
 **Redeker Plan**
 
