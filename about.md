@@ -45,7 +45,7 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 
 - **Dr. Jamie A. Thomas** is Assistant Professor of Linguistics at Swarthmore College. Her forthcoming ethnography Zombies Speak Swahili is all about the undead, videogames, and why language matters. She teaches sociolinguistics, linguistic anthropology, and applied linguistics with attention to spoken discourse and visual and textual semiotics.
 
-*Languages of Fear, Racism, and Zombies*, Spring 2017, Swarthmore College:
+*Spring 2017*
 
 - **Elena Do** ‘20 is a freshman at Swarthmore College. Her intended major is neuroscience but interests also lie in bioethics, chemistry, and dance.
 - **Leilani Garcia** ‘20 is a Swarthmore College freshman from Portland, Oregon interested in Psychology and Art History.
@@ -56,7 +56,9 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 - **Alejandra Sandoval** ‘20 is a freshman at Swarthmore College from Gadsden, Arizona. She is  interested in double majoring in Psychology and Spanish and enjoys reading and watching How to Get Away with Murder.
 - **Kendre Thomas**
 
-*Languages of Fear, Racism, and Zombies*, Spring 2016, Swarthmore College:
+<hr/>
+
+*Spring 2016*
 
 - **Eojin (Jin) Choi '19** is a first-year student at Swarthmore College. She loves to travel, and some of her favorite places include Mongolia, Uzbekistan, and Myanmar.
 - **Shuang Guan '19** is a first year at Swarthmore College, studying Math, Linguistics, and Chinese literature. She's involved in Swarthmore Asian Organization and the Dare2Soar tutoring program. Shuang used to get really squeamish about zombies or scary movies. She still does, but this class has helped her lessen the squeamishness and find a larger meaning beyond the gore.
