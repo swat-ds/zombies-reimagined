@@ -36,11 +36,15 @@ Morality was at an extreme low and human rights continued to be violated  during
 The Walking Dead follows sheriff's deputy Rick Grimes, who awakens from a coma to discover a world overrun by zombies, commonly referred to as "walkers". Grimes eventually reunites with his family and becomes the leader of a band he forms with other survivors in the Atlanta area. Together, they struggle to survive and adapt to a post-apocalyptic world filled with walkers and opposing groups of survivors, who are often more dangerous than the walkers themselves.
 In Season 2, Episode 1 (2011) of The Walking Dead, T Dawg expresses fear for his life not only as a human attempting to survive the zombie apocalypse, but also as a Black man trying to survive in the American South . T Dawg is not making these claims without reason, as he was called the n-word and was assaulted by Meryl, a bigoted White southern male survivor. In a private conversation with Dale, T Dawg expresses his concerns for his immediate safety, drawing attention to his vulnerable status as the only black survivor he knows.
 
-> "T Dawg: What are you, 70? - 
- Dale: 64.
-T Dawg: Uh-huh,  and I am the one Black guy. Realize how precarious that makes my situation? 
+"T Dawg: What are you, 70? 
+
+> Dale: 64.
+ 
+>T Dawg: Uh-huh,  and I am the one Black guy. Realize how precarious that makes my situation? 
 Dale: What the hell are you talking about? -
+
 T Dawg: I am talking about two good-old-boy cowboy sheriffs and a redneck whose brother cut off 	his own hand because I dropped a key. Who in that scenario you think is gonna be first to get 		lynched? 
+
 Dale: You can not be serious. Am I-- Hey, am I missing something?"
 	    
 This scene is particularly powerful because it allows viewers to experience what race relations outside of a structured society might  be like. Dale, a middle aged White male, refuses to acknowledge T Dawg’s concerns about racism, and defends Meryl without even acknowledging his well established racist actions. The refusal to acknowledge problematic power structures has continued for centuries in the U.S, and we have good reason to suspect that this trend will continue during an apocalypse as well.
