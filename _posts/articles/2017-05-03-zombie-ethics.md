@@ -53,7 +53,7 @@ The Zombie Survival Guide, published in 2003, is a fictional but comprehensive g
                     
 As this excerpt shows, the French had no regard for the safety of their colonial subjects, as they would treat their lives as a matter of entertainment - a sport to watch. The colonists notoriously committed dozens of human rights violations towards the people they exploited, and this excerpt demonstrates that racism or cultural superiority of a cruel nature can still persist during a situation as grave as a zombie apocalypse. 
 
- ## World War Z
+## World War Z
  
 **Acceptable Forms of Cannibalism**
 
