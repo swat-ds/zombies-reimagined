@@ -89,7 +89,6 @@ Perhaps when we first considered the zombie apocalypse, we would think that the 
 ## **Works Cited**
 
 [^1]: Stafford, Tom. "BBC - Future - Are we naturally good or bad?" BBC News. BBC, n.d. Web. 10 May 2017.
-
 [^2]: Moore, Tony, Charlie Adhard, Frank Darabont, and Robert Kirkman. "Bloodletting." The Walking Dead. 23 Oct. 2011. Television. Transcript.
 
 [3^]: Brooks, Max. World War Z: An Oral History of the Zombie War. New York: Broadway Paperbacks, 2006. Print.
