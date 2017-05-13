@@ -19,8 +19,10 @@ Philosophers have argued for centuries whether or not humans are born inherently
 > “Shoot first, ask questions about morality  later.”
 
 Structural racism is the combined results of institutionalized practice and learn behavior. 
+For the sake of this essay, racism will be defined as 
 
-For the sake of this essay, racism will be defined as “the normalization and legitimization of an array of dynamics – historical, cultural, institutional and interpersonal – that routinely advantage Whites while producing cumulative and chronic adverse outcomes for people of color”.[^5]  
+>“the normalization and legitimization of an array of dynamics – historical, cultural, institutional and interpersonal – that routinely advantage Whites while producing cumulative and chronic adverse outcomes for people of color”.[^5]  
+
 One example of structural racism is the inordinate amount of unarmed Black men being murdered by police throughout the United States. This can be credited to the negative stereotypes associated with Black males. For example, the superpredator stereotype holds that Black males, no matter their size,  are more dangerous than their white counterparts. 
 
 > “For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” [^6]
