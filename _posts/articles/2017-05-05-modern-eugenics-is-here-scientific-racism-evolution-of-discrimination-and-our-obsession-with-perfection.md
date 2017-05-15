@@ -1,6 +1,6 @@
 ---
 modified: '2017-05-05 16:01 -0400'
-author: group5
+author: group9
 layout: article
 published: true
 image_teaser: eugenics-tumb.jpg
