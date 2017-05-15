@@ -6,9 +6,9 @@ image:
     banner: images/banner-large.jpg
 ---
 
-![group photo of class](../images/group-photo-compressed.jpg)
+![group photo of class](../images/class-picture-2017.jpg)
 
-*Seminar visit to a Philadelphia screening of Pride and Prejudice and Zombies in February 2016. (L to R, back row) Romeo Luevano, Alexander Jin, Shuang Guan, Eojin Choi, Gretchen Trupp, Tiauna Lewis; (L to R, front row) Fanyi Ma, Jamie A. Thomas*
+*Zombies Reimagined seminar class, 2017*
 <hr/>
 
 #### The Exhibit
