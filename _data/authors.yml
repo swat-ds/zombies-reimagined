@@ -29,3 +29,27 @@ group5:
   web:
   bio:
   avatar: logo-mccabe-web.png
+
+group6:
+  name: Kendre Thomas and Yash Kewalramani
+  web:
+  bio:
+  avatar: group6.jpg
+
+group7:
+  name: Rye Buckley and Leilani Garcia
+  web:
+  bio:
+  avatar: group7.jpg
+
+group8:
+  name: Cindy Li and Rose
+  web:
+  bio:
+  avatar: group8.jpg
+
+group9:
+  name: Elena Do, Alejandra Sandoval and Richard Mobley
+  web:
+  bio:
+  avatar: group9.jpg
