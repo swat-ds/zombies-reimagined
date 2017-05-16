@@ -1,6 +1,6 @@
 ---
 modified: '2017-05-08 13:35 -0400'
-author: group5
+author: group8
 layout: article
 published: true
 image_teaser: rise-thumb.jpg
