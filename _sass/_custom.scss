@@ -112,6 +112,10 @@ div.tiles {
     width: 125%;
     margin-left: -12.5%;
   }
+
+  @include media($medium){
+    margin-left: 0;
+  }
 }
 
 article.tile {
