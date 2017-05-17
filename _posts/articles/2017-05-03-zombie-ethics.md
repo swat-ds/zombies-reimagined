@@ -8,7 +8,7 @@ title: Zombie Ethics
 storymap_id: 00dccdb141c5558ea8255ea000663d1d
 storymap_title: zombie-project
 ---
-# **Zombie Ethics: Examining Human Morality Before & During the Apocalypse**
+# **Zombie Ethics: Examining Human Morality Before & During the Zombie Apocalypse**
  
 ## Introduction
 
