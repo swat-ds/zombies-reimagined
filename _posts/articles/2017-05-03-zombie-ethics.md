@@ -25,7 +25,7 @@ For the sake of this essay, racism will be defined as
 
 One example of structural racism is the inordinate amount of unarmed Black men being murdered by police throughout the United States. This can be credited to the negative stereotypes associated with Black males. For example, the superpredator stereotype holds that Black males, no matter their size,  are more dangerous than their white counterparts. 
 
-> “For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” [6^]
+> “For example, Black men are more likely than White men to be misremembered as carrying a weapon , are more likely to facilitate the visual recognition of a weapon, are more likely to be shot mistakenly in a virtual crime scenario while holding an innocent object such as a soda can , and are more likely to activate concepts related to crime.” [^6]
     
 This study by Wilson , Hugenberg, and Rule (2017)gives insight into how police and others  justify the murder of Black males based on the perception that they are larger and more formidable than their White counterparts. Given how racist practices like this surface everyday in American society, we predict racism will continue to surface in post-apocalyptic settings after the collapse of a society. Although society in America has not yet fallen apart, accurate predictions of human behavior can be drawn from previous cases in history where American society was on the brink of collapse. For example, both World Wars I and II were considered to be a “total war”, or a war that required the combined efforts of the entire population and resources of the entire country to win. This meant that people of color, women, and people of all gender identities were involved in the wartime effort. These two wars were the closest America has come to losing a global conflict on our own soil, and despite this, minorities were viciously oppressed during and after both World Wars. In the Digital History of World War II, there are many accounts of Americans of color being systematically excluded on the basis of their race.
 
@@ -95,7 +95,7 @@ Perhaps when we first considered the zombie apocalypse, we would think that the 
 
 [^4]: Brooks, Max. The Zombie Survival Guide: Complete Protection from the Living Dead. Baltimore: Cemetery Dance Publications, 2014. Print.
 
-[^5]: Lawrence, Kieth, and Terry Keheler. "Structural Racism." N.p., 2004. Web. <http://www.intergroupresources.com/rc/Definitions%20of%20Racism.pdf>.
+[^5]: Lawrence, Kieth, and Terry Keheler. "Structural Racism." N.p., 2004. Web. 
 
 [^6]: Wilson, J. P., Hugenberg, K., & Rule, N. O. (2017, March 13). Racial Bias in Judgments of Physical Size and Formidability: From Size to Threat. Journal of Personality and Social Psychology. Advance online publication. http://dx.doi.org/10.1037/pspi0000092
 
