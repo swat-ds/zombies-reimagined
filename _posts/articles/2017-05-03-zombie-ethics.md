@@ -48,7 +48,7 @@ In Season 2, Episode 1 (2011) of The Walking Dead, T Dawg expresses fear for his
 
 >T Dawg: I am talking about two good-old-	boy cowboy sheriffs and a redneck whose 	brother cut off his own hand because I dropped a key. Who in that scenario you 	   think is gonna be first to get lynched? 
 
->Dale: You can not be serious. Am I-- Hey, 	  am I missing something?"
+>Dale: You can not be serious. Am I-- Hey, 	  am I missing something? [^2]
 	    
 This scene is particularly powerful because it allows viewers to experience what race relations outside of a structured society might  be like. Dale, a middle aged White male, refuses to acknowledge T Dawg’s concerns about racism, and defends Meryl without even acknowledging his well established racist actions. The refusal to acknowledge problematic power structures has continued for centuries in the U.S, and we have good reason to suspect that this trend will continue during an apocalypse as well.
 
