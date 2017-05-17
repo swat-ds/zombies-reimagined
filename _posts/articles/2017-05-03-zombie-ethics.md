@@ -56,7 +56,7 @@ This scene is particularly powerful because it allows viewers to experience what
 
 The Zombie Survival Guide, published in 2003, is a fictional but comprehensive guide to surviving in a zombie-infested world. It presents an alternative history set in the real world. The author Max Brooks describes prevailing attitudes that Europeans had during periods of colonial expansion. Jean Beart Lacoutour, a French businessman, describes in a letter how the French colonists would force the residents of Indochina (or modern Vietnam) to fight in a cage with zombies for the entertainment of the French. 
 
-> “A living human is placed in a cage with one of these creatures. Our human has with him only a small blade, perhaps eight centimeters at most… Will he survive his waltz with the living corpse? If so, how long will he last?”(Brooks, The Zombie Survival Guide)
+> “A living human is placed in a cage with one of these creatures. Our human has with him only a small blade, perhaps eight centimeters at most… Will he survive his waltz with the living corpse? If so, how long will he last?”[^4]
                     
 As this excerpt shows, the French had no regard for the safety of their colonial subjects, as they would treat their lives as a matter of entertainment - a sport to watch. The colonists notoriously committed dozens of human rights violations towards the people they exploited, and this excerpt demonstrates that racism or cultural superiority of a cruel nature can still persist during a situation as grave as a zombie apocalypse. 
 
