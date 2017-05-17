@@ -70,7 +70,7 @@ In World War Z, cannibalism was essential to the survival of one particular fami
 
 > “We all sang around the campfires at night, these giant bonfires of logs stacked up on one another.”[^3]
     
-However, once they ran out of food, people turned on one another fairly quickly, and the situation became dire.  The decision to eat people was a difficult choice for Jesika’s parents, one they debated viciously the night they first tried human flesh. However, as they valued their survival over their morals, they ultimately gave in. “_No more fights, no more shooting. By Christmas Day there was plenty of food._” When first reading this chapter, we thought of it as no more than another interesting tale among numerous others in this book. However, upon further investigation, we began to regard this chapter as a social experiment that stood out, as it explores what life would be like if we were to remove societal norms and restrictions to our behavior.=
+However, once they ran out of food, people turned on one another fairly quickly, and the situation became dire.  The decision to eat people was a difficult choice for Jesika’s parents, one they debated viciously the night they first tried human flesh. However, as they valued their survival over their morals, they ultimately gave in. “_No more fights, no more shooting. By Christmas Day there was plenty of food._” When first reading this chapter, we thought of it as no more than another interesting tale among numerous others in this book. However, upon further investigation, we began to regard this chapter as a social experiment that stood out, as it explores what life would be like if we were to remove societal norms and restrictions to our behavior.
 
 **Redeker Plan**
 
