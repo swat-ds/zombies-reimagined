@@ -7,7 +7,7 @@ title: Capitalism as Contagion
 ---
 # **Capitalism as Contagion**
 
-In the novel *World War Z*, Max Brooks takes his readers on a journey of humanity as it faces its greatest ever existential threat: zombies. Acts of social marginalization and otherization from the dominant liberal-democratic capitalist world order allow the pandemic to be contracted and then proliferate. In this piece, we will analyse various milestones of the pandemic’s spread and use CDA (Critical Discourse Analysis) to explore how the language of fear, mistrust, and discrimination reflect or parallel real-life power inequalities.
+In the novel *World War Z*, Max Brooks takes his readers on a journey, as humanity faces its greatest ever existential threat: zombies. Acts of social marginalization and otherization from the dominant liberal-democratic capitalist world order allow the pandemic to be contracted and then proliferate. In this piece, we will analyse various milestones of the pandemic’s spread and use CDA (Critical Discourse Analysis) to explore how the language of fear, mistrust, and discrimination reflect or parallel real-life power inequalities.
 
 
 # **Patient Zero**
@@ -32,7 +32,3 @@ The fear conjured up from media speculation helped serve the interests of drug-m
 
 ## Conclusion 
 Max Brooks imagines a world where lies, distractions, and the short-sighted capitalist structure coordinate to bring its own downfall by turning its humans into consumerist zombies, only to then be consumed by differently alive zombies. Our ability and desire to integrate those marginalized by society are crucial for the durability of world order. Integrating marginalized peoples means recognizing the language of fear and resisting to connect that fear with marginalized communities. Continued failure in integration can drain us of our “humanity” and without knowing (as I’m sure the zombies in World War Z are not “conscious” of their actions), turn you and me into the consumerist killer zombies.
-
-
-
-
