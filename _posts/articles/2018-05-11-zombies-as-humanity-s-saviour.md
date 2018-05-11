@@ -4,11 +4,8 @@ author: group5
 layout: article
 published: false
 title: Zombies as Humanity's Saviour
-timeline_id: >-
-  <iframe
-  src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wFHxL-GUqYwNs3vkiW-i_UCo12ddSQCiPLJIwIikYKE&font=Default&lang=en&initial_zoom=2&height=600'
-  width='100%' height='600' webkitallowfullscreen mozallowfullscreen
-  allowfullscreen frameborder='0'></iframe>
+timeline_id: 1wFHxL-GUqYwNs3vkiW-i_UCo12ddSQCiPLJIwIikYKE
+group_members: melanie
 ---
 # ZOMBIES AS HUMANITY’S SAVIOUR
 
@@ -55,6 +52,4 @@ In the U.S., we are currently engulfed by a global political state in which powe
 [^1]: From Dr. Persephone Braham's _From Amazons to Zombies: Monsters in Latin America_
 [^2]: Artwork credit to John Peterson 
 [^3]: Importantly, the effects of racial categorization are entirely real, and overwhelmingly so. Race is indeed a construction that manifests in real ways which produce real internal, interpersonal, social, and material consequences throughout society (oppression). However, race is not a natural part of life; in other words, it did not happen by itself, but rather it was created to establish social hierarchy and justify oppressive systems. 
-[^4]: Representational transformation refers to the process by which our conceptual understandings and corresponding ways of referring to people change as we gain new knowledge or experience. 
-
-
+[^4]: Representational transformation refers to the process by which our conceptual understandings and corresponding ways of referring to people change as we gain new knowledge or experience.
