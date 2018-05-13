@@ -37,4 +37,4 @@ The fear conjured up from media speculation helped serve the interests of drug-m
 ## Conclusion 
 Max Brooks imagines a world where lies, distractions, and the short-sighted capitalist structure coordinate to bring its own downfall by turning its humans into consumerist zombies, only to then be consumed by differently alive zombies. Our ability and desire to integrate those marginalized by society are crucial for the durability of world order. Integrating marginalized peoples means recognizing the language of fear and resisting to connect that fear with marginalized communities. Continued failure in integration can drain us of our “humanity” and without knowing (as I’m sure the zombies in World War Z are not “conscious” of their actions), turn you and me into the consumerist killer zombies.
 
-[^1] Brooks, Max. World War Z. Duckworth, 2007.
+[^1]: Brooks, Max. World War Z. Duckworth, 2007.
