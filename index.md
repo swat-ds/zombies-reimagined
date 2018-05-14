@@ -16,8 +16,11 @@ image:
 
 </div>
 
-The more the zombie gains notoriety as a cannibalistic anti-human across television, film, and print media, the greater its imprint as an enduring reflection of our human anxieties and fears. This born-digital exhibit offers a thoughtful analysis and creative exploration of zombie media from the perspectives of some of the genre's most avid connoisseurs. The exhibit is the collaborative effort of students in the Spring 2016 linguistics seminar, *Languages of Fear, Racism, and Zombies*, with instructor, Professor Jamie A. Thomas at Swarthmore College.
+## Zombies should scare us.
 
-In our examinations of race, gender, and power relations in the discourse of films including White Zombie, Night of the Living Dead, Pontypool, and Warm Bodies, we apply the method of Critical Discourse Analysis in multiple historical, visual, and semiotic constellations. We draw additional connections to the immortality and reanimation of the cells of Henrietta Lacks, and the early exile and objectification of persons deemed as Other, or Wild Men, within Western culture.
+The persistent notoriety of zombies as cannibalistic anti-humans across television, film, and print media, strengthens their imprint as enduring reflections of our social anxieties and fears. This born-digital exhibit presents thoughtful analysis and creative exploration on the semiotics of zombie media from the perspectives of some of the genre’s most avid connoisseurs. The exhibit is the collaborative effort of students in the Spring 2018 advanced sociolinguistics seminar, *Discourse, Dystopia, and Democracy*, with instructor, Professor Jamie A. Thomas at Swarthmore College. This digital scholarship also includes contributions from students of her 2017 and 2016 freshman seminars on *Languages of Fear, Racism, and Zombies*, also at Swarthmore College.
+
+Across this online exhibit, the framework of Multimodal Critical Discourse Analysis is applied in examination of race, gender, sexuality, and power relations. Each contribution to the exhibit critiques an aspect of zombie culture, from the visual to the textual. This includes novels and narratives such as *World War Z, Heart of Darkness*, and *The Immortal Life of Henrietta Lacks*; as well as films *White Zombie, Night of the Living Dead, Pontypool*, and *Warm Bodies*. We also explore television episodes of *The Walking Dead, X-Files*, and Bear Grylls’ *Man vs. Wild*. 
+
 
 <hr/>

@@ -18,13 +18,13 @@ Zombies Reimagined is the brainchild of Languages of Fear, Racism, and Zombies, 
 As the final collaborative project for the seminar course, this online exhibit offers our humanistic spin on why the ambulatory undead are of critical importance. We also intend this digital humanities project to encourage others to productively view the zombie through the intersecting lenses of race, gender, sexuality, and politics. In this way, we invite you to join us and others in the field of zombie studies in (re)imagining the symbolic and material import of the zombie.
 
 
-#### The Seminar: From Uncivilized Wild Men to the Undead of Today
+#### The Freshman Seminar: From Uncivilized Wild Men to the Undead of Today
 
 If you're familiar with the television series The Walking Dead or movies Dawn of the Dead and Shaun of the Dead, you're used to seeing the zombie portrayed as an outlier to 'civilization' and a harbinger of disorder, chaos, and anti-humanity. But where do these ideas come from? How are these ideas communicated and to what end? How do we define 'human'?
 
 We began the course with an examination of the Wild Man, a European Renaissance concept of the uncivilized being, to uncover how Western discourses of difference continue to pervade our reality...and even reality TV. Whereas the Wild Man of the 14th through mid-17th centuries was an unkempt beast thought to live in the forest with no capacity for learning or language, today's wild men are also portrayed in the outdoors. These are the Bear Grylls and Swamp People of reality TV who desire an escape from the busy demands and decorum of an urban lifestyle. But do they count as uncivilized?
 
-In our seminar, we took the time to examine the popular television series Man vs. Wild, and ways in which our notions of 'uncivilized' and 'primitive' have shifted, along with our historical understanding of what counts as human. We came to the realization that the ability to name a person or group as 'uncivilized' fundamentally derives from an empowered position. To pay particular attention to power relations manifest in visual and discursive texts on civilization, humanity, and zombies, we took up Critical Discourse Analysis, a key method in use my linguists and others. 
+In our seminar, we took the time to examine the popular television series Man vs. Wild, and ways in which our notions of 'uncivilized' and 'primitive' have shifted, along with our historical understanding of what counts as human. We came to the realization that the ability to name a person or group as 'uncivilized' fundamentally derives from an empowered position. To pay particular attention to power relations manifest in visual and discursive texts on civilization, humanity, and zombies, we took up Critical Discourse Analysis, a key method in use by linguists and others. 
 
 Accordingly, our seminar took note of the ways Western tradition has used discursive means to justify its civilizing mission and exploitation of nations and cultures around the world. This is particularly the case with colonial linguistics, a key phase in the development of linguistics as a field of study in the 18th and 19th centuries. Concurrent with Hegelian philosophy, the development of anthropology, and the advent of Darwin's new ideas on evolution, it was during this time when European scholars used biblical and racialized philosophies to explain their flawed characterization and analyses of non-European languages across Africa, Asia, and the Americas. We see evidence of this in Conrad's novel Heart of Darkness (1899).
 
@@ -44,6 +44,16 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 #### Contributors
 
 - **Dr. Jamie A. Thomas** is Assistant Professor of Linguistics at Swarthmore College. Her forthcoming ethnography Zombies Speak Swahili is all about the undead, videogames, and why language matters. She teaches sociolinguistics, linguistic anthropology, and applied linguistics with attention to spoken discourse and visual and textual semiotics.
+
+*Spring 2018*
+
+- **Erick Gutierrez Prado** '19 is a junior at Swarthmore College who enjoys politics, linguistics, and speculating about historical what-ifs.
+
+- **Melanie Kleid** '19 is a junior at Swarthmore College who enjoys writing, making music, and learning about language and culture, particularly as they relate to multi-racial identity. 
+
+- **Shaoni White** '21 is a freshman at Swarthmore College. She spends her free time writing, reading and drawing, and hopes to study English, linguistics, and computer science.
+ 
+<hr/>
 
 *Spring 2017*
 
