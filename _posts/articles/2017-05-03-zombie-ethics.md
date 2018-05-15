@@ -4,19 +4,18 @@ modified: '2017-05-03 16:02 -0400'
 author: group5
 layout: article
 published: true
-title: Zombie Ethics
+title: "Zombie Ethics: Examining Human Morality Before & During the Zombie Apocalypse"
 storymap_id: 00dccdb141c5558ea8255ea000663d1d
 storymap_title: zombie-project
 ---
-# **Zombie Ethics: Examining Human Morality Before & During the Zombie Apocalypse**
  
-## Introduction
+#### Introduction
 
 >“If we are born with a good nature, then it is society that corrupts us, and if we are born with a bad nature, society is what keeps our desire to commit evil at bay.” [^1]  
 
 Philosophers have argued for centuries whether or not humans are born inherently good or evil. No matter which side of the argument you defend, it is an undisputable fact that when faced with apocalypse and the dissolution of society, actions once considered drastic become the norm as humans struggle to survive. This reversal of moral codes is explored well within the zombie genre. Flesh-eating monsters are an ever present threat within zombie media, but perhaps the greatest challenges are the repugnant choices humans are faced with - choices such as  murder, theft, cannibalism, and many more sacrifices of morality. With the rise of zombies in our popular culture within the last few decades, there have been increasingly realistic and profound depictions of the world reacting to a zombie apocalypse. We center upon examples of these depictions here, through critical discourse analysis of select scenes from _The Walking Dead_, _The Zombie Survival Guide_, and _World War Z_. As a result of our analysis, we make predictions as to how humans will fare in the apocalypse. This is significant because our exploration of the landscape of zombie media illustrates not only the nature of humankind, but also the contemporary issues of racism that we face today, specifically in the U.S.
  
-##  Racism
+####  Racism
 
 >“Shoot first, ask questions about morality  later.”
 
@@ -35,7 +34,7 @@ This study by Wilson, Hugenberg, and Rule (2017)gives insight into how police an
  
 Morality was at an extreme low and human rights continued to be violated  during the two most deadly wars in American history, so the idea that human nature would become altruistic  during an apocalypse is highly improbable.  In fact, without the laws in place today that guarantee inalienable human rights, America’s moral compass could only become worse. 
 
-## Dale and T-Dawg in TWD
+#### Dale and T-Dawg in TWD
  
 The Walking Dead follows sheriff Rick Grimes, who awakens from a coma to discover a world overrun by zombies, commonly referred to as "walkers". Grimes eventually reunites with his family and becomes the leader of a band he forms with other survivors in the Atlanta area. Together, they struggle to survive and adapt to a post-apocalyptic world filled with walkers and opposing groups of survivors, who are often more dangerous than the walkers themselves.
 
@@ -55,7 +54,7 @@ In Season 2, Episode 1 (2011) of The Walking Dead, T Dawg expresses fear for his
 	    
 This scene is particularly powerful because it allows viewers to experience what race relations outside of a structured society might  be like. Dale, a middle aged White male, refuses to acknowledge T Dawg’s concerns about racism, and defends Meryl without even acknowledging his well established racist actions. The refusal to acknowledge problematic power structures has continued for centuries in the U.S, and we have good reason to suspect that this trend will continue during an apocalypse as well.
 
-## **Ethics in Human and Zombie History**
+#### Ethics in Human and Zombie History
 
 The Zombie Survival Guide, published in 2003, is a fictional but comprehensive guide to surviving in a zombie-infested world. It presents an alternative history set in the real world. The author Max Brooks describes prevailing attitudes that Europeans had during periods of colonial expansion. Jean Beart Lacoutour, a French businessman, describes in a letter how the French colonists would force the residents of Indochina (or modern Vietnam) to fight in a cage with zombies for the entertainment of the French. 
 
@@ -63,7 +62,7 @@ The Zombie Survival Guide, published in 2003, is a fictional but comprehensive g
                     
 As this excerpt shows, the French had no regard for the safety of their colonial subjects, as they would treat their lives as a source of entertainment. The colonists notoriously committed dozens of human rights violations towards the people they exploited, and this excerpt demonstrates that racism or cultural superiority of a cruel nature can still persist during a situation as grave as a zombie apocalypse. 
 
-## World War Z
+#### World War Z
  
 **Acceptable Forms of Cannibalism**
 
@@ -83,7 +82,7 @@ The Redeker Plan is a long-term survival plan masterminded by Paul Redeker, a ch
         
 Although the Redeker plan follows common principles of utilitarianism, it still shows little or no regard for the individual human life. In the Zombie World War, the role of power in determining the matters of survival is well explored with implmentation of the Redeker Plan. Paul Redeker, pioneer of the Redeker Plan, was publicly hated and ostracized, as that sort of plan seems outrageous when proposed in today’s society. However, days into the zombie outbreak, the South African government called in Paul Redeker to execute the plan. Although the plan was heartless, it was a well-thought out and shockingly effective method that prolonged the survival of South Africans. In today’s reality, governments, intelligence agencies and authoritative figures have taken action that demonstrates their belief that some loss of life is justifiable as a means to an end, as seen in World War II. Because of this, it is not farfetched to assume the American government would abandon the majority of its own population to ensure the survival of the elite minority. If this were proposed today, the response would be almost all opposed at the outset, but perhaps a combination of time and desperation would change the mind of the public. This goes to show that _World War Z_ is an astonishing but a well thought-out simulation of a zombie outbreak, which shows us that when faced with global catastrophe, our morals might be put on the back burner.
 
-## **Conclusion**
+#### Conclusion
 
 An inescapable consequence of the zombie apocalypse would be the death of countless human beings. As a result we consider the dissolution of society and the change in our morality - how does this mentality affect the long-term strategy that we use to endure the zombie outbreak? 
 

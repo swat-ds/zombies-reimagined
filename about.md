@@ -48,9 +48,7 @@ Please contact <span class="rtl">ude.eromhtraws&#64;6samohtj</span> for more inf
 *Spring 2018*
 
 - **Erick Gutierrez Prado** '19 is a junior at Swarthmore College who enjoys politics, linguistics, and speculating about historical what-ifs.
-
 - **Melanie Kleid** '19 is a junior at Swarthmore College who enjoys writing, making music, and learning about language and culture, particularly as they relate to multi-racial identity. 
-
 - **Shaoni White** '21 is a freshman at Swarthmore College. She spends her free time writing, reading and drawing, and hopes to study English, linguistics, and computer science.
  
 <hr/>

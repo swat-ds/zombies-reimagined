@@ -1,12 +1,12 @@
 ---
 modified: '2018-05-08 14:51 -0400'
-author: group5
+author: shaoni
 layout: article
+image_teaser:
 published: false
 title: How Disaster Narratives Encourage or Discourage Empathy
 storymap_id: fdaca11bd9bfaa2b061ea1cac0b37fc0
 storymap_title: The Narrators of World War Z
-group_members: shaoni
 ---
 # How Disaster Narratives Encourage or Discourage Empathy
 

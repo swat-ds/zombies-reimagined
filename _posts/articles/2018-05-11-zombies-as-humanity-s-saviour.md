@@ -1,11 +1,11 @@
 ---
 modified: '2018-05-11 10:58 -0400'
-author: group5
+author: melanie
 layout: article
+image_teaser: fourteenth.png
 published: false
 title: Zombies as Humanity's Saviour
 timeline_id: 1wFHxL-GUqYwNs3vkiW-i_UCo12ddSQCiPLJIwIikYKE
-group_members: melanie
 ---
 # ZOMBIES AS HUMANITY’S SAVIOUR
 
@@ -15,7 +15,7 @@ To most humans, fear of creatures so fundamentally inhuman as zombies comes natu
 
 Needless to say, the global population of _World War Z_ is lost and desperate when it comes to defeating a rapidly-growing army of brain-eating monsters. Besides that it has been overtaken by apocalyptic disaster, many aspects of _World War Z_’s reality actually resemble integral parts of social reality in the U.S. quite strongly: humans participate in government and military, racial categorization imbues society with conflict and prejudice, and, of course, humans have no idea how to defeat the living dead. As human zombification stretches relentlessly across the world, humanity and its social world is virtually torn apart by the sheering hands of the undead, and humans are, well, scared. Interestingly, this fear is complex and meaningful when we explore the role of the zombie in more depth. 
  
-According to some monster-theorists like [Dr. Persephone Braham](http://www.dllc.udel.edu/staff-members/persephone-braham/), we might fear monsters not only out of self-preservation, but also out of some kind of desire for their senselessness and disregard for social norms[^1]. If our fear of the other is envy-driven, what might the fearful population of _World War Z_ envy about its zombie opponents? I suggest it is their inability to think the way the living do, and thus their detachment from discriminatory ways of thinking and acting--that humans really desire. In other words, it is their very thoughtlessness that allows the undead to ‘know’ something many of us do not; if zombies cannot think, how can they practice anything but total equality?
+According to some monster-theorists like [Dr. Persephone Braham](http://www.dllc.udel.edu/staff-members/persephone-braham/), we might fear monsters not only out of self-preservation, but also out of some kind of desire for their senselessness and disregard for social norms. [^1] If our fear of the other is envy-driven, what might the fearful population of _World War Z_ envy about its zombie opponents? I suggest it is their inability to think the way the living do, and thus their detachment from discriminatory ways of thinking and acting--that humans really desire. In other words, it is their very thoughtlessness that allows the undead to ‘know’ something many of us do not; if zombies cannot think, how can they practice anything but total equality?
 
 ## All Humans Shall be Eaten Equally. . . ?
 
