@@ -18,13 +18,17 @@ span.rtl {
 }
 
 .footnotes ol {
-    list-style: $red;
+
+    a.reversefootnote {
+      color: $red;
+    }
 }
 
 a.footnote {
 
     color: $red;
-    font-size: 1.3em;
+    font-family: $heading-font;
+    font-size: .9rem;
 }
 
 .sliding-menu-content li{

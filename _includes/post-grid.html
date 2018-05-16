@@ -11,7 +11,7 @@
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser" style="background-image: url({{ site.url }}/images/{{ background }});">
 
     {% if post.title %}
-    <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
+    <h2 class="post-title" itemprop="name">{{ post.title | truncatewords: 10 }}</h2>
     {% endif %}
     </a>
 

@@ -7,24 +7,23 @@ published: false
 title: Zombies as Humanity's Saviour
 timeline_id: 1wFHxL-GUqYwNs3vkiW-i_UCo12ddSQCiPLJIwIikYKE
 ---
-# ZOMBIES AS HUMANITY’S SAVIOUR
 
 To most humans, fear of creatures so fundamentally inhuman as zombies comes naturally; after all, not only are zombies grotesque in appearance, but they are also the living dead whose sole collective purpose is to destroy human life. However, in Max Brooks’ _World War Z_, which details the effects of a mindblowing zombie apocalypse, it so happens that it is the zombies themselves who push characters toward compassion and away from oppressive behaviors like racism and sectarianism. By examining the shifting language with which characters from the novel represent and relate to social ‘others’ upon the rise of the apocalypse through the lens of a Critical Discourse Analysis framework, we can explore the malleability of ideology and see how _human zombification_ might not be so bad after all.
 
-## Humans vs. Zombies: Destruction, Fear, and Envy
+#### Humans vs. Zombies: Destruction, Fear, and Envy
 
 Needless to say, the global population of _World War Z_ is lost and desperate when it comes to defeating a rapidly-growing army of brain-eating monsters. Besides that it has been overtaken by apocalyptic disaster, many aspects of _World War Z_’s reality actually resemble integral parts of social reality in the U.S. quite strongly: humans participate in government and military, racial categorization imbues society with conflict and prejudice, and, of course, humans have no idea how to defeat the living dead. As human zombification stretches relentlessly across the world, humanity and its social world is virtually torn apart by the sheering hands of the undead, and humans are, well, scared. Interestingly, this fear is complex and meaningful when we explore the role of the zombie in more depth. 
  
-According to some monster-theorists like [Dr. Persephone Braham](http://www.dllc.udel.edu/staff-members/persephone-braham/), we might fear monsters not only out of self-preservation, but also out of some kind of desire for their senselessness and disregard for social norms. [^1] If our fear of the other is envy-driven, what might the fearful population of _World War Z_ envy about its zombie opponents? I suggest it is their inability to think the way the living do, and thus their detachment from discriminatory ways of thinking and acting--that humans really desire. In other words, it is their very thoughtlessness that allows the undead to ‘know’ something many of us do not; if zombies cannot think, how can they practice anything but total equality?
+According to some monster-theorists like [Dr. Persephone Braham](http://www.dllc.udel.edu/staff-members/persephone-braham/), we might fear monsters not only out of self-preservation, but also out of some kind of desire for their senselessness and disregard for social norms.[^1] If our fear of the other is envy-driven, what might the fearful population of _World War Z_ envy about its zombie opponents? I suggest it is their inability to think the way the living do, and thus their detachment from discriminatory ways of thinking and acting--that humans really desire. In other words, it is their very thoughtlessness that allows the undead to ‘know’ something many of us do not; if zombies cannot think, how can they practice anything but total equality?
 
-## All Humans Shall be Eaten Equally. . . ?
+#### All Humans Shall be Eaten Equally. . . ?
 
 Among the most fascinating characteristics of the zombie is its relentless, unwavering desire to destroy any and every human in its path. Importantly, when a zombie encounters a human, it does not consider the human at all; the human’s racial categorization, ethnicity, gender, nationality, and so on, are all but relevant or even extant to the zombie. In fact, it is this completely indiscriminate, **‘unthinking’** way of being--this total disregard for social classifications over which humans have obsessed for centuries--that I believe makes zombification a _positive step toward better humanity_ for humans. 
 
 ![world_war_z__battle_for_yonkers_by_jerry04-d6hftol.png]({{site.baseurl}}/images/world_war_z__battle_for_yonkers_by_jerry04-d6hftol.png)
 [^2]
 
-## Reconsidering ‘Enemies’ in World War Z
+#### Reconsidering ‘Enemies’ in World War Z
 
 Throughout the novel, and as the apocalypse progresses, Brooks details various characters’ transitions out of their racist ideologies and into more compassionate perceptions of their social world. Mary Jo Miller, an American woman who originally paid little attention to the disaster, recounts finding her co-worker, Mrs. Ruiz, preparing to flee to Alaska for safety:
 
@@ -36,13 +35,13 @@ Similarly, Saladin Kadar, a refugee from Kuwait City, expresses even more explic
 
 In both cases, racism and prejudice are overshadowed as disaster nears; not only do Mary Jo and Saladin realize new and more powerful enemies than their social ‘others,’ but also they realize the futility of constructing social ‘others’ in the first place. In other words, they see that these manufactured categorizations and conflicts are, indeed, manufactured--that they are not fundamental, necessary, or even ‘real’[^3] to natural human life at all, and that their inconsequences are clear when a true enemy arrives.
 
-## Toward ‘Unthinking’, Toward Justice 
+#### Toward ‘Unthinking’, Toward Justice 
 
-The transitions Mary Jo and Saladin trace in their social ideologies exemplify a powerful form of recontextualization and representational transformation[^4]. Recontextualization here refers to the process of making or discovering previously unseen meanings by imagining or experiencing a concept in a new context. The presence of zombies allows Mary Jo and Saladin to realize a new context in which social identity-markers are significantly outweighed by something much greater and more powerful: survival. 
+The transitions Mary Jo and Saladin trace in their social ideologies exemplify a powerful form of recontextualization and representational transformation.[^4] Recontextualization here refers to the process of making or discovering previously unseen meanings by imagining or experiencing a concept in a new context. The presence of zombies allows Mary Jo and Saladin to realize a new context in which social identity-markers are significantly outweighed by something much greater and more powerful: survival. 
 
 Importantly, these characters’ previous conceptions of their social world are not only offset by the zombie force, but also transformed as they imagine and actualize new conceptual and linguistic representations for their social ‘others.’ Specifically, Mary Jo transforms out of her representation of Mexican people as inherently ‘unclean,’ and Saladin realizes that Israeli people are not his ‘enemy.’ Although Mary Jo and Saladin avoid infection and literal zombification, they undergo a socially transformative process of ideological zombification in which ‘unthinking’ reality offers a powerful pathway toward **equality**. 
 
-## Conclusion: Zombies help us re-imagine our social worlds
+#### Conclusion: Zombies help us re-imagine our social worlds
 
 Guided by these linguistic interpretations of discourse from the novel, we can understand Brooks’ _World War Z_ as a call to **critically re-imagine** our contemporary social reality. Evidently, the worldwide zombie apocalypse Brooks constructs does more than just scare the human population; it also pushes humans to see differently, re-evaluate what they have believed to be ‘true’ about their worlds, and, importantly, value ‘unthinking’ as a worthwhile, meaning-building, _truth-revealing_ process. 
 

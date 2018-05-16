@@ -11,7 +11,7 @@ storymap_title: zombie-project
  
 #### Introduction
 
->“If we are born with a good nature, then it is society that corrupts us, and if we are born with a bad nature, society is what keeps our desire to commit evil at bay.” [^1]  
+>“If we are born with a good nature, then it is society that corrupts us, and if we are born with a bad nature, society is what keeps our desire to commit evil at bay.”[^1]  
 
 Philosophers have argued for centuries whether or not humans are born inherently good or evil. No matter which side of the argument you defend, it is an undisputable fact that when faced with apocalypse and the dissolution of society, actions once considered drastic become the norm as humans struggle to survive. This reversal of moral codes is explored well within the zombie genre. Flesh-eating monsters are an ever present threat within zombie media, but perhaps the greatest challenges are the repugnant choices humans are faced with - choices such as  murder, theft, cannibalism, and many more sacrifices of morality. With the rise of zombies in our popular culture within the last few decades, there have been increasingly realistic and profound depictions of the world reacting to a zombie apocalypse. We center upon examples of these depictions here, through critical discourse analysis of select scenes from _The Walking Dead_, _The Zombie Survival Guide_, and _World War Z_. As a result of our analysis, we make predictions as to how humans will fare in the apocalypse. This is significant because our exploration of the landscape of zombie media illustrates not only the nature of humankind, but also the contemporary issues of racism that we face today, specifically in the U.S.
  
@@ -64,7 +64,7 @@ As this excerpt shows, the French had no regard for the safety of their colonial
 
 #### World War Z
  
-**Acceptable Forms of Cannibalism**
+##### Acceptable Forms of Cannibalism
 
 Cannibalism has been present throughout human history, but it has long since been declared taboo. While there may not be specific laws that criminalise the act of cannibalism, there are many that prevent it indirectly. Nevertheless, it is only during times of peace and societal stability that cannibalism is frowned upon. An exception to this is the 'Custom of the Sea', which states that when shipwrecked, survivors are legally able to draw lots to see who will be cannibalized to ensure the survival of the others. During the apocalypse presented in World War Z, however, the global stance on eating other human beings drastically changed, as cannibalism became necessary for people to outlast  prolonged periods of food shortages. 
 
@@ -74,12 +74,12 @@ In World War Z, cannibalism was essential to the survival of one particular fami
     
 However, once they ran out of food, people turned on one another fairly quickly, and the situation became dire. The decision to eat people was a difficult choice for Jesika’s parents, one they debated viciously the night they first tried human flesh. However, as they valued their survival over their morals, they ultimately gave in. “_No more fights, no more shooting. By Christmas Day there was plenty of food._” When first reading this chapter, we thought of it as no more than another interesting tale among numerous others in this book. However, upon further investigation, we began to regard this chapter as a social experiment that stood out, as it explores what life would be like if we were to remove societal norms and restrictions to our behavior.
 
-**Redeker Plan**
+##### Redeker Plan
 
 The Redeker Plan is a long-term survival plan masterminded by Paul Redeker, a character in Max Brooks’ novel _World War Z_. It originated from Plan Orange Eighty-Four, which was a plan to save the White minority in South Africa in case the African majorities rebelled. A cold and widely criticized plan, the Redeker Plan features the intentional sacrifice of a significant part of the population so that a “chosen” lot of people can survive in a secluded safe zone. It even features the government replenishing the sacrificial colonies with more people to keep the zombie distracted continuously. As it stemmed from the salvation of a racist minority, it is no surprise that the Redeker Plan was designed to only save a small population of “chosen individuals”. 
 
 >“Those who were left behind were to be herded into special isolated zones. They were to be human bait, distracting the undead from following the retreating army to their safe zone. Redeker argued that these isolated, uninfected refugees must be kept alive, well defended and even resupplied, if possible, so as to keep the undead hordes firmly rooted to the spot."[^3]
-        
+
 Although the Redeker plan follows common principles of utilitarianism, it still shows little or no regard for the individual human life. In the Zombie World War, the role of power in determining the matters of survival is well explored with implmentation of the Redeker Plan. Paul Redeker, pioneer of the Redeker Plan, was publicly hated and ostracized, as that sort of plan seems outrageous when proposed in today’s society. However, days into the zombie outbreak, the South African government called in Paul Redeker to execute the plan. Although the plan was heartless, it was a well-thought out and shockingly effective method that prolonged the survival of South Africans. In today’s reality, governments, intelligence agencies and authoritative figures have taken action that demonstrates their belief that some loss of life is justifiable as a means to an end, as seen in World War II. Because of this, it is not farfetched to assume the American government would abandon the majority of its own population to ensure the survival of the elite minority. If this were proposed today, the response would be almost all opposed at the outset, but perhaps a combination of time and desperation would change the mind of the public. This goes to show that _World War Z_ is an astonishing but a well thought-out simulation of a zombie outbreak, which shows us that when faced with global catastrophe, our morals might be put on the back burner.
 
 #### Conclusion
@@ -100,7 +100,7 @@ Perhaps when we first considered the zombie apocalypse, we would think that the 
 
 [^4]: Brooks, Max. The Zombie Survival Guide: Complete Protection from the Living Dead. Baltimore: Cemetery Dance Publications, 2014. Print.
 
-[^5]: Lawrence, Kieth, and Terry Keheler. "Structural Racism." N.p., 2004. Web. 
+[^5]: Lawrence, Kieth, and Terry Keheler. "Structural Racism." N.p., 2004. Web.
 
 [^6]: Wilson, J. P., Hugenberg, K., & Rule, N. O. (2017, March 13). Racial Bias in Judgments of Physical Size and Formidability: From Size to Threat. Journal of Personality and Social Psychology. Advance online publication. http://dx.doi.org/10.1037/pspi0000092
 
