@@ -5,8 +5,8 @@ description: A Critical Discourse Analysis of Popular Culture
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-# url: http://ds.swarthmore.edu/zombies-reimagined
-url: 
+url: http://ds.swarthmore.edu/zombies-reimagined
+# url: 
 feed:
   path: atom.xml
 placeholder_img: zombie2.png
