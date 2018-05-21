@@ -4,7 +4,7 @@ author: shaoni
 layout: article
 image_teaser: narrators-wwz.png
 published: true
-title: How Disaster Narratives Encourage or Discourage Empathy
+title: Reading Zombie Apocalypse as a Disaster Narrative
 storymap_id: fdaca11bd9bfaa2b061ea1cac0b37fc0
 storymap_title: the-narrators-of-world-war-z
 ---
