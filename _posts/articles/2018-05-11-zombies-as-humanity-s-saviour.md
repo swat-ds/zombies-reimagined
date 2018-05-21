@@ -20,8 +20,7 @@ According to some monster-theorists like [Dr. Persephone Braham](http://www.dllc
 
 Among the most fascinating characteristics of the zombie is its relentless, unwavering desire to destroy any and every human in its path. Importantly, when a zombie encounters a human, it does not consider the human at all; the human’s racial categorization, ethnicity, gender, nationality, and so on, are all but relevant or even extant to the zombie. In fact, it is this completely indiscriminate, **‘unthinking’** way of being--this total disregard for social classifications over which humans have obsessed for centuries--that I believe makes zombification a _positive step toward better humanity_ for humans. 
 
-![world-war-z.png](../images/world-war-z.png)
-[^2]
+![world-war-z.png](../images/world-war-z.png)[^2]
 
 #### Reconsidering ‘Enemies’ in World War Z
 
