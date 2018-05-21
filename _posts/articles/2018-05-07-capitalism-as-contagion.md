@@ -3,7 +3,7 @@ modified: '2018-05-07 17:15 -0400'
 author: erick
 layout: article
 image_teaser: capitalism.png
-published: false
+published: true
 title: Capitalism as Contagion
 timeline_id: 1PxShr75B3pZ1SQ2hyCRy-wFC1oMgkRjHWKYJrLSINLc
 ---

@@ -2,11 +2,11 @@
 modified: '2018-05-08 14:51 -0400'
 author: shaoni
 layout: article
-image_teaser:
-published: false
+image_teaser: narrators-wwz.png
+published: true
 title: How Disaster Narratives Encourage or Discourage Empathy
 storymap_id: fdaca11bd9bfaa2b061ea1cac0b37fc0
-storymap_title: The Narrators of World War Z
+storymap_title: the-narrators-of-world-war-z
 ---
 
 In our current era, zombies are usually portrayed as the product of infection. This often lends itself to a portrayal of the zombie apocalypse as a natural disaster, which intersects with the many discourses of **natural disaster** that permeate our everyday news and media. A Multimodal Critical Discourse Analysis approach to reading Max Brooks’ novel *World War Z* reveals that the author subtly challenges the racism and Eurocentrism that underlies many contemporary zombie narratives, in addition to the covert power encoded in framing of natural disaster across contemporary news media. A linguistics analysis of this kind helps show us how the construction of disaster narratives can unconsciously introduce racism into our thinking.

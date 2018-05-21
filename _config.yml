@@ -9,6 +9,7 @@ locale: en
 url: 
 feed:
   path: atom.xml
+placeholder_img: zombie2.png
 
 # Jekyll configuration
 
