@@ -2,7 +2,7 @@
 modified: '2018-05-07 17:15 -0400'
 author: erick
 layout: article
-image_teaser: capitalism.png
+image_teaser: zombies-erick-thumb.png
 published: true
 title: Capitalism as Contagion
 timeline_id: 1PxShr75B3pZ1SQ2hyCRy-wFC1oMgkRjHWKYJrLSINLc
@@ -38,7 +38,6 @@ Part of the sensationalization of this discourse comes in linguistically constru
 > "Plus, this was one of the most business-friendly administrations in American history… Who was going to blow the whistle? The medical profession? We made sure it was a prescription drug so doctors stood just as much to lose as us. Who else?The FDA who let it pass?The congressmen who all voted for its acceptance? The surgeon general? The White House?” (Pg. 55)
 
 Within the circumstances of _World War Z,_ fear conjured through media speculation helped serve the interests of drug-makers who teamed up with doctors and the US government to fast-track a sham vaccine for consumption by the American public. Max Brooks critiques the presidency of George W. Bush by imagining his business-friendly administration donning the slogan: “Americans don’t need big government. They need big protection, and they need it big time!” Given the novel's 2006 debut in the years after 9/11 and the 2003 Iraq Invasion, it is reasonable to interpret this fictional political slogan, and its manipulative discursive role in political misdirection surrounding zombie threat, as an indirect critique of pro-business policies and manipulative news media in the weeks and months leading up to Bush administration's invasion of Iraq. It is difficult to not connect the government’s role in misleading the public about the sham vaccine Phalanx in _World War Z_ with the misinformation campaign committed by the Bush administration both before and after the Iraq Invasion.
-
 
 #### Conclusion 
 

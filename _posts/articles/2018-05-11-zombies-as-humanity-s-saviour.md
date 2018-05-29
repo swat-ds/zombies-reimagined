@@ -2,7 +2,7 @@
 modified: '2018-05-11 10:58 -0400'
 author: melanie
 layout: article
-image_teaser: fourteenth.png
+image_teaser: civil-rights-momentum.jpeg
 published: true
 title: Zombies as Humanity's Saviour
 timeline_id: 1wFHxL-GUqYwNs3vkiW-i_UCo12ddSQCiPLJIwIikYKE
